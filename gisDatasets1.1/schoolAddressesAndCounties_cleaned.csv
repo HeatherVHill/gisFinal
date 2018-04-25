@@ -1,0 +1,748 @@
+type,county,name,address,city,zip
+PUBLIC,Barbour,Philip Barbour High School Complex,99 Horseshoe Drive ,Philippi,26416
+PUBLIC,Barbour,Belington Middle School,Rr 2 Box 343 ,Belington,26250
+PUBLIC,Barbour,Philippi Head Start,Chestnut Street ,Philippi,26416
+PUBLIC,Barbour,Junior Elementary,415 First Street ,Junior,26275
+PUBLIC,Barbour,Kasson Elementary/Middle School,Rt. 1 Box 233a ,Moatsville,26405
+PUBLIC,Barbour,Philippi Middle School,Rt 3 Box 40 ,Philippi,26416
+PUBLIC,Barbour,Belington Head Start,25 Horseshoe Drive ,Philippi,26416
+PUBLIC,Barbour,Philippi Elementary School,Route 3 Box 38 ,Philippi,26416
+PUBLIC,Barbour,Belington Elementary,Rr 2 Box 344 ,Belington,26250
+PUBLIC,Berkeley,Rosemont Elementary School,301 South Alabama Avenue ,Martinsburg,25401
+PUBLIC,Berkeley,James Rumsey Technical Institute,3274 Hedgesville Road ,Martinsburg,25403
+PUBLIC,Berkeley,Mountain Ridge Intermediate,2691 Gerrardstown Road ,Gerrardstown,25420
+PUBLIC,Berkeley,Marlowe Elementary School,9580 Williamsport Pike ,Falling Waters,25419
+PUBLIC,Berkeley,Musselman High School,126 Excellence Way ,Inwood,25428
+PUBLIC,Berkeley,Eagle School Intermediate,730 Eagle School Road ,Martinsburg,25404
+PUBLIC,Berkeley,Hedgesville Elementary School,88 School House Drive ,Hedgesville,25427
+PUBLIC,Berkeley,Hedgesville High School,109 Ridge Road North ,Hedgesville,25427
+PUBLIC,Berkeley,Potomack Intermediate School,5308 Williamsport Pike ,Martinsburg,25404
+PUBLIC,Berkeley,Burke Street Elementary School,422 West Burke Street ,Martinsburg,25401
+PUBLIC,Berkeley,Musselman Middle School,105 Pride Avenue ,Bunker Hill,25413
+PUBLIC,Berkeley,Winchester Avenue Elementary School,650 Winchester Avenue ,Martinsburg,25401
+PUBLIC,Berkeley,Berkeley Heights Elementary School,726 Hack Wilson Way ,Martinsburg,25401
+PUBLIC,Berkeley,Martinsburg North Middle School,250 East Road ,Martinsburg,25404
+PUBLIC,Berkeley,Tuscarora Elementary School,2000 Tavern Road ,Martinsburg,25401
+PUBLIC,Berkeley,Back Creek Valley Elementary School,1962 Back Creek Valley Road ,Hedgesville,25427
+PUBLIC,Berkeley,Mountain Ridge Middle School,2771 Gerrardstown Road,Gerrardstown,25420
+PUBLIC,Berkeley,Spring Mills Primary,401 Campus Drive ,Martinsburg,25404
+PUBLIC,Berkeley,Opequon Elementary School,395 East Road ,Martinsburg,25404
+PUBLIC,Berkeley,Pikeside Learning Center,3635 Winchester Ave ,Martinsburg,25405
+PUBLIC,Berkeley,Orchard View Intermediate School,1455 Delmar Orchard Rd ,Martinsburg,25403
+PUBLIC,Berkeley,Inwood Primary School,7864 Winchester Ave ,Inwood,25428
+PUBLIC,Berkeley,Martinsburg High School,701 South Queen Street ,Martinsburg,25401
+PUBLIC,Berkeley,Mill Creek Intermediate School,8785 Winchester Avenue ,Bunker Hill,25413
+PUBLIC,Berkeley,Gerrardstown Elementary School,15 Dominion Road ,Gerrardstown,25420
+PUBLIC,Berkeley,Spring Mills Middle School,255 Campus Drive ,Martinsburg,25404
+PUBLIC,Berkeley,Spring Mills High School,499 Campus Drive,Martinsburg,25404
+PUBLIC,Berkeley,Tomahawk Intermediate School,6665 Hedgesville Road ,Hedgesville,25427
+PUBLIC,Berkeley,Bunker Hill Elementary School,58 Happy School Avenue ,Bunker Hill,25413
+PUBLIC,Berkeley,Martinsburg South Middle School,150 Bulldog Boulevard ,Martinsburg,25401
+PUBLIC,Berkeley,Valley View Elementary School,140 Nadenbousch Lane ,Martinsburg,25405
+PUBLIC,Berkeley,Bedington Elementary School,149 Bedington Road ,Martinsburg,25404
+PUBLIC,Berkeley,Hedgesville Middle School,334 School House Drive ,Hedgesville,25427
+PUBLIC,Boone,Sherman High School,10008 Coal River Road Po Box Ab,Seth,25181
+PUBLIC,Boone,Jeffrey-Spencer Elementary,3277 Hewett Creek Road Po Box 319,Hewett,25108
+PUBLIC,Boone,Sherman Junior High School,9846 Coal River Road Po Box Aa,Seth,25181
+PUBLIC,Boone,Whitesville Elementary School,"37949 Coal River Road Hc82, Box 265",Whitesville,25209
+PUBLIC,Boone,Brookview Elementary,1 Learning Way ,Foster,25081
+PUBLIC,Boone,Wharton Elementary,36071 Pond Fork Road Po Box 60,Wharton,25208
+PUBLIC,Boone,Ramage Elementary,"15908 Spruce River Road Rt 1, Box 293",Danville,25053
+PUBLIC,Boone,Van Junior/Senior High School,913 Van High School Road Po Box 100,Van,25206
+PUBLIC,Boone,Madison Elementary,150 Josephine Avenue ,Madison,25130
+PUBLIC,Boone,Scott High School,1 Skyhawk Place ,Madison,25130
+PUBLIC,Boone,Ashford-Rumble Elementary,1649 Ashford Nellis Road ,Ashford,25009
+PUBLIC,Boone,Madison Middle School,404 Riverside Dr-W ,Madison,25130
+PUBLIC,Boone,Sherman Elementary School,7487 Coal River Road Po Box 369,Comfort,25049
+PUBLIC,Boone,Van Elementary,338 Van High School Road Po Box 360,Van,25206
+PUBLIC,Boone,Boone Career-Technical Center,"3505 Daniel Boone Pkwy-Suite B Hc81, Box 50-B",Danville,25053
+PUBLIC,Boone,Nellis Elementary,"179 Memorial Drive,1 School St Box 135",Nellis,25142
+PUBLIC,Braxton,Braxton County Middle School,100 Carter Braxton Drive ,Sutton,26601
+PUBLIC,Braxton,Little Birch Elementary School,55 Little Birch Road,Sutton,26601
+PUBLIC,Braxton,Flatwoods Elementary School,Po Box 130 ,Flatwoods,26621
+PUBLIC,Braxton,Burnsville Elementary School,Po Box 35 228 Kanawha Ave,Burnsville,26335
+PUBLIC,Braxton,Braxton County High School,200 Jerry Burton Drive ,Sutton,26601
+PUBLIC,Braxton,Sutton Elementary School,288 N Hill Road ,Sutton,26601
+PUBLIC,Braxton,Frametown Elementary School,Hc 61 Box 14 ,Frametown,26623
+PUBLIC,Braxton,Davis Elementary School,113 Fifth Street ,Gassaway,26624
+PUBLIC,Brooke,Wellsburg Middle School,1447 Main Street ,Wellsburg,26070
+PUBLIC,Brooke,Wellsburg Primary School,1448 Main Street ,Wellsburg,26070
+PUBLIC,Brooke,Jefferson Primary School,Jefferson Street ,Follansbee,26037
+PUBLIC,Brooke,Franklin Primary School,1305 Washington Pike ,Wellsburg,26070
+PUBLIC,Brooke,Beech Bottom Primary,High Street ,Beech Bottom,26030
+PUBLIC,Brooke,Brooke High School,"R.d. 3, Box 610 Cross Creek Road",Wellsburg,26070
+PUBLIC,Brooke,Follansbee Middle School,1400 Main Street ,Follansbee,26037
+PUBLIC,Brooke,Lauretta B Millsop Primary School,Legion & Swearingen ,Weirton,26062
+PUBLIC,Brooke,Hooverson Heights Primary School,200 Rockdale Road ,Follansbee,26037
+PUBLIC,Brooke,Colliers Primary School,Penn Street ,Colliers,26035
+PUBLIC,Cabell,Cabell County Career Technology Center,1035 Norway Ave ,Huntington,25705
+PUBLIC,Cabell,Village Of Barboursville Elementary Sch,718 Central Ave ,Barboursville,25504
+PUBLIC,Cabell,Highlawn Elementary School,2549 1st Avenue ,Huntington,25703
+PUBLIC,Cabell,Huntington High School,1 Highlander Way ,Huntington,25701
+PUBLIC,Cabell,Spring Hill Elementary School,1901 Hall Avenue ,Huntington,25701
+PUBLIC,Cabell,Geneva Kent Elementary School,68 Holley Avenue ,Huntington,25705
+PUBLIC,Cabell,Alternative School,2800 5th Ave ,Huntington,25702
+PUBLIC,Cabell,Peyton Elementary School,199 Rotary Rd ,Huntington,25705
+PUBLIC,Cabell,Culloden Elementary School,2100 U.s. Route 60 ,Culloden,25510
+PUBLIC,Cabell,Milton Middle School,1 Panther Trail ,Milton,25541
+PUBLIC,Cabell,Nichols Elementary School,3505 Erwin Road ,Barboursville,25504
+PUBLIC,Cabell,Altizer Elementary School,"250 Third Street, Altizer ",Huntington,25705
+PUBLIC,Cabell,Beverly Hills Middle School,2901 Saltwell Rd ,Huntington,25705
+PUBLIC,Cabell,Meadows Elementary School,1601 Washington Blvd ,Huntington,25701
+PUBLIC,Cabell,Southside Elementary,200 Tenth Avenue ,Huntington,25701
+PUBLIC,Cabell,Hite Saunders Elementary School,3708 Green Valley Road ,Huntington,25701
+PUBLIC,Cabell,Cabell County Career Technology Center,1035 Norway Ave ,Huntington,25705
+PUBLIC,Cabell,Central City Elementary School,2100 Washington Ave ,Huntington,25704
+PUBLIC,Cabell,Guyandotte Elementary School,607 5th Ave Guy ,Huntington,25702
+PUBLIC,Cabell,Cabell Midland High School,2300 Us Route 60 East ,Ona,25545
+PUBLIC,Cabell,Salt Rock Elementary School,5570 Madison Creek Rd ,Salt Rock,25559
+PUBLIC,Cabell,Huntington East Middle School,2901 Saltwell Rd,Huntington,25705
+PUBLIC,Cabell,Davis Creek Elementary School,6330 Davis Creek Rd ,Barboursville,25504
+PUBLIC,Cabell,Explorer Academy,68 Holley Ave,Huntington,25705
+PUBLIC,Cabell,Huntington Middle School,925 Third Street ,Huntington,25701
+PUBLIC,Cabell,Ona Elementary School,2701 Elementary Dr ,Ona,25545
+PUBLIC,Cabell,Cox Landing Elementary School,6358 Cox Lane ,Lesage,25537
+PUBLIC,Cabell,Enslow Middle School,2613 Collis Ave ,Huntington,25702
+PUBLIC,Cabell,Milton Elementary School,1201 Pike St. ,Milton,25541
+PUBLIC,Cabell,Barboursville Middle School,1400 Central Ave ,Barboursville,25504
+PUBLIC,Cabell,Martha Elementary School,3067 Martha Road ,Barboursville,25504
+PUBLIC,Calhoun,Pleasant Hill School,3254 N Calhoun Hwy ,Grantsville,26147
+PUBLIC,Calhoun,Calhoun Middle/High School,50 Underwood Circle ,Mt. Zion,26151
+PUBLIC,Calhoun,Arnoldsburg School,Post Office Box 159 ,Arnoldsburg,25234
+PUBLIC,Calhoun,Calhoun-Gilmer Career Center,5260 E Little Kanawha Hwy,Grantsville,26147
+PUBLIC,Clay,Clay County High School,Po Box 729 1 Panther Drive,Clay,25043
+PUBLIC,Clay,Big Otter Elementary School,Po Box 100 59 Ossia Road,Ivydale,25113
+PUBLIC,Clay,Lizemore Elementary School,Po Box 70 #1 Lizemore Street,Lizemore,25125
+PUBLIC,Clay,Clay Middle School,Po Box 489 419 Church Street,Clay,25043
+PUBLIC,Clay,H E White Elementary School,501 Bomont Road ,Bomont,25030
+PUBLIC,Clay,Clay Elementary School,Po Box 600 219 Church Street,Clay,25043
+PUBLIC,Doddridge,Doddridge County Preschool Center,2945 Smithton Road,West Union,26426
+PUBLIC,Doddridge,Doddridge County High School,79 Bulldog Drive ,West Union,26456
+PUBLIC,Doddridge,Doddridge County Elementary School,182 Doddridge School Road,West Union,26456
+PUBLIC,Doddridge,Doddridge County Middle School,65 Doddridge School Road,West Union,26456
+PUBLIC,Fayette,Meadow Bridge Elementary,2725 Main Street ,Meadow Bridge,25976
+PUBLIC,Fayette,Midland Trail High,Po Box 89 Rt 60-E,Hico,25854
+PUBLIC,Fayette,Gatewood Elementary,5094 Gatewood Road ,Fayetteville,25840
+PUBLIC,Fayette,Fayetteville High,515 West Maple Avenue ,Fayetteville,25840
+PUBLIC,Fayette,Divide Elementary,Po Box 180 ,Lookout,25868
+PUBLIC,Fayette,Ansted Middle,Po Box 766 ,Ansted,25812
+PUBLIC,Fayette,Valley Elementary,Po Box 215 ,Smithers,25186
+PUBLIC,Fayette,Fayette Institute Of Technology,300 West Oyler Avenue ,Oak Hill,25901
+PUBLIC,Fayette,Mount Hope Elementary,408 Lincoln Street ,Mount Hope,25880
+PUBLIC,Fayette,Oak Hill High,350 West Oyler Avenue ,Oak Hill,25901
+PUBLIC,Fayette,Gauley Bridge Elementary,Po Box 519 ,Gauley Bridge,25085
+PUBLIC,Fayette,Meadow Bridge High,2775 Main Street ,Meadow Bridge,25976
+PUBLIC,Fayette,Fayetteville Elementary,200 Wiseman Avenue ,Fayetteville,25840
+PUBLIC,Fayette,Collins Middle,601 Jones Avenue ,Oak Hill,25901
+PUBLIC,Fayette,Ansted Elementary,Po Box 609 ,Ansted,25812
+PUBLIC,Fayette,New River Elementary,262 Oyler Avenue ,Oak Hill,25901
+PUBLIC,Fayette,Rosedale Elementary,4001 Summerlee Rd ,Oak Hill,25901
+PUBLIC,Fayette,Valley High School,Po Box 459 Greyhound Lane,Smithers,25186
+PUBLIC,Gilmer,Calhoun-Gilmer Career Center,5260 East Little Kanawha Hwy,Grantsville,26147
+PUBLIC,Gilmer,Gilmer County Elementary School,99 Fairground Road,Glenville,26351
+PUBLIC,Gilmer,Gilmer County High School,300 Pine Street ,Glenville,26351
+PUBLIC,Grant,Petersburg High School,207 Jefferson Avenue ,Petersburg,26847
+PUBLIC,Grant,Maysville Elementary School,7147 Highway 42s ,Maysville,26833
+PUBLIC,Grant,Union Educational Complex,Hc 76 Box 750 ,Mount Storm,26839
+PUBLIC,Grant,South Branch Career & Technical Center,401 Pierpont Street ,Petersburg,26847
+PUBLIC,Grant,Petersburg Elementary School,333 Rig Street ,Petersburg,26847
+PUBLIC,Grant,Dorcas Elementary School,Hc 33 Box 1060 ,Petersburg,26847
+PUBLIC,Greenbrier,Ronceverte Elementary,246 Ronceverte Elementary School Drive,Ronceverte,24970
+PUBLIC,Greenbrier,Frankford Elementary,21692 Seneca Trail ,Frankford,24938
+PUBLIC,Greenbrier,Smoot Elementary,General Delivery ,Smoot,24977
+PUBLIC,Greenbrier,Greenbrier West High School,Po Box 325 One Cavalier Drive,Charmco,25958
+PUBLIC,Greenbrier,Rainelle Elementary,701 Kanawha Avenue ,Rainelle,25962
+PUBLIC,Greenbrier,Western Greenbrier Middle School,Hc 40 Box 14 ,Crawley,24931
+PUBLIC,Greenbrier,White Sulphur Elementary,150 Reed Street ,White Sulphur Springs,24986
+PUBLIC,Greenbrier,Lewisburg Elementary,206 North Lee Street ,Lewisburg,24901
+PUBLIC,Greenbrier,Alderson Elementary,Rr1 Box 162f ,Alderson,24910
+PUBLIC,Greenbrier,Greenbrier School Of Practical Nursing,One Spartan Lane ,Lewisburg,24901
+PUBLIC,Greenbrier,Rupert Elementary,Po Drawer D ,Rupert,25984
+PUBLIC,Greenbrier,Greenbrier East High School,One Spartan Lane ,Lewisburg,24901
+PUBLIC,Greenbrier,Crichton Elementary,Po Box 205 ,Quinwood,25981
+PUBLIC,Greenbrier,Eastern Greenbrier Middle School,Route 1 Box 150 ,Ronceverte,24970
+PUBLIC,Hampshire,Hampshire Senior High School,"Hc 63, Box 1970 ",Romney,26757
+PUBLIC,Hampshire,Capon Bridge Middle School,"Hc 71, Box 1001 ",Capon Bridge,26711
+PUBLIC,Hampshire,Springfield-Green Spring Elementary School,Hc 65 Box 9000 ,Springfield,26763
+PUBLIC,Hampshire,Romney Elementary School,45 School Street ,Romney,26757
+PUBLIC,Hampshire,Augusta Elementary School,Po Box 910 ,Augusta,26704
+PUBLIC,Hampshire,Hampshire County Career Training Center,Hc 63 Box 1970 ,Romney,26757
+PUBLIC,Hampshire,Romney Middle School,"Hc 63, Box 1975 ",Romney,26757
+PUBLIC,Hampshire,Capon Bridge Elementary School,"Hc 71, Box 1000 ",Capon Bridge,26711
+PUBLIC,Hampshire,Slanesville Elementary School,P.o. Box 308 ,Slanesville,25444
+PUBLIC,Hampshire,John J. Cornwell,"Hc 60, Box 72 ",Levels,25431
+PUBLIC,Hancock,Weir Middle School,125 Sinclair Avenue ,Weirton,26062
+PUBLIC,Hancock,Weirton Elementary,3428 Pennsylvania Ave,Weirton,26062
+PUBLIC,Hancock,Weirton Heights Elementary School,160 South 12th Street ,Weirton,26062
+PUBLIC,Hancock,Liberty Elementary School,200 Culler Road ,Weirton,26062
+PUBLIC,Hancock,Weir High School,100 Red Rider Road ,Weirton,26062
+PUBLIC,Hancock,Oak Glen Middle School,39 Golden Bear Drive ,New Cumberland,26047
+PUBLIC,Hancock,A. T. Allison Elementary School,600 Railroad Street ,Chester,26034
+PUBLIC,Hancock,New Manchester Elementary School,128 Frankfort Road ,New Cumberland,26047
+PUBLIC,Hancock,Broadview Elementary School,189 Circle Drive ,Weirton,26062
+PUBLIC,Hancock,John D. Rockefeller Career Center,95 Rockyside Road ,New Cumberland,26047
+PUBLIC,Hancock,Oak Glen High School,195 Golden Bear Drive ,New Cumberland,26047
+PUBLIC,Hardy,Moorefield Intermediate School,345 Caledonia Heights Road ,Moorefield,26836
+PUBLIC,Hardy,Moorefield Elementary School,400 North Main Street ,Moorefield,26836
+PUBLIC,Hardy,Moorefield High School,401 North Main Street ,Moorefield,26836
+PUBLIC,Hardy,Moorefield Middle School,303 Caledonia Heights Road ,Moorefield,26836
+PUBLIC,Hardy,East Hardy Early/Middle School,P. O. Box 260 238 Cougar Drive,Baker,26801
+PUBLIC,Hardy,East Hardy High School,P. O. Box 120 259 Cougar Drive,Baker,26801
+PUBLIC,Harrison,Mountaineer Middle School,2 Mountaineer Dr ,Clarksburg,26301
+PUBLIC,Harrison,United High School,,,
+PUBLIC,Harrison,Simpson Elementary School,250 Worthington Dr ,Bridgeport,26330
+PUBLIC,Harrison,Washington Irving Middle School,443 Lee Ave ,Clarksburg,26301
+PUBLIC,Harrison,North View Elementary School,1400 N 19th Street ,Clarksburg,26301
+PUBLIC,Harrison,Pressley Ridge School,Rr 5 Box 697 ,Clarksburg,26301
+PUBLIC,Harrison,Bridgeport Middle School,413 Johnson Ave ,Bridgeport,26330
+PUBLIC,Harrison,Lost Creek Elementary School,Po Box 128 ,Lost Creek,26385
+PUBLIC,Harrison,Robert C. Byrd High School,1 Eagle Way ,Clarksburg,26301
+PUBLIC,Harrison,Nutter Fort Intermediate School,1302 Buckhannon Pike ,Nutter Fort,26301
+PUBLIC,Harrison,Adamston Elementary School,1636 W Pike St ,Clarksburg,26301
+PUBLIC,Harrison,Lincoln High School,Rr 1 Box 300 ,Shinnston,26431
+PUBLIC,Harrison,Big Elm Elementary School,200 Tetrick Rd ,Shinnston,26431
+PUBLIC,Harrison,Bridgeport High School,515 Johnson Ave ,Bridgeport,26330
+PUBLIC,Harrison,West Milford Elementary School,226 School St ,West Milford,26451
+PUBLIC,Harrison,South Harrison Middle School,Rr 1 Box 58b ,Lost Creek,26385
+PUBLIC,Harrison,Harrison Co Transitional Middle School,1349 Shinnston Pk,Clarksburg,26301
+PUBLIC,Harrison,Norwood Elementary School,208 Kidd Ave ,Stonewood,26301
+PUBLIC,Harrison,United Technical Center,251 Marietta St.,Clarksburg,26301
+PUBLIC,Harrison,Lumberport Middle School,314 Main Street ,Lumberport,26386
+PUBLIC,Harrison,Lumberport Elementary School,Po Box 417 Chestnut & Lyndon Streets,Lumberport,26386
+PUBLIC,Harrison,Harrison Co Alternative Learning Center,Rr 3 Box 43b ,Clarksburg,26301
+PUBLIC,Harrison,Salem Elementary,Rr 1 Box 10a ,Salem,26426
+PUBLIC,Harrison,Johnson Elementary School,531 Johnson Ave ,Bridgeport,26330
+PUBLIC,Harrison,South Harrison High School,Rr 1 Box 58 ,Lost Creek,26385
+PUBLIC,Harrison,Nutter Fort Primary School,1302 Buckhannon Pike ,Nutter Fort,26301
+PUBLIC,Harrison,Liberty High School,1 Mountaineer Dr ,Clarksburg,26301
+PUBLIC,Harrison,Wilsonburg Elementary School,Rr 4 Box 1 ,Clarksburg,26301
+PUBLIC,Jackson,Evans Elementary School,205 Schoolhouse Drive ,Evans,25241
+PUBLIC,Jackson,Ravenswood High School,Plaza Drive ,Ravenswood,26164
+PUBLIC,Jackson,Ravenswood Middle School,409 Sycamore Street ,Ravenswood,26164
+PUBLIC,Jackson,Ravenswood Grade School,"Rt 2, Box 22-A ",Ravenswood,26164
+PUBLIC,Jackson,Kenna Elementary School,650 Route 21 ,Kenna,25248
+PUBLIC,Jackson,Fairplain Elementary School,Rt 3 Box 147 ,Ripley,25271
+PUBLIC,Jackson,Ripley High School,2 School Street ,Ripley,25271
+PUBLIC,Jackson,Cottageville Elementary School,100 School Street ,Cottageville,25239
+PUBLIC,Jackson,Ripley Middle School,"Route 2, Box 75-A Klondyke Road",Ripley,25271
+PUBLIC,Jackson,Ripley Elementary School,404 Second Avenue ,Ripley,25271
+PUBLIC,Jackson,Henry J Kaiser Elementary School,803 Kaiser Avenue ,Ravenswood,26164
+PUBLIC,Jackson,Gilmore Elementary School,"Rt. 3, Box 28-A ",Sandyville,25275
+PUBLIC,Jackson,Roane-Jackson Technical Center,9450 Spencer Rd,Leroy,25252
+PUBLIC,Jefferson,South Jefferson Elementary School,4599 Summit Point Road ,Charles Town,25414
+PUBLIC,Jefferson,Washington High School,300 Washington Patriots Drive ,Charles Town,25414
+PUBLIC,Jefferson,Shepherdstown Elementary School,662 South Church Street ,Shepherdstown,25443
+PUBLIC,Jefferson,Wildwood Middle School,1209 Shenandoah Junction Road ,Shenandoah Junction,25442
+PUBLIC,Jefferson,Page Jackson Elementary,370 Page Jackson School Road ,Charles Town,25414
+PUBLIC,Jefferson,Harpers Ferry Middle School,1710 West Washington Street ,Harpers Ferry,25425
+PUBLIC,Jefferson,Blue Ridge Elementary School,18866 Charles Town Road ,Harpers Ferry,25425
+PUBLIC,Jefferson,Driswood Elementary School,75 Caspian Way ,Shenandoah Junction,25442
+PUBLIC,Jefferson,Wright Denny Intermediate School,209 West Congress Street ,Charles Town,25414
+PUBLIC,Jefferson,C. W. Shipley Elementary School,652 Shipley School Road ,Harpers Ferry,25425
+PUBLIC,Jefferson,Blue Ridge Primary,175 Lowery Lane ,Harpers Ferry,25425
+PUBLIC,Jefferson,Jefferson High School,4141 Flowing Springs Road ,Shenandoah Junction,25442
+PUBLIC,Jefferson,Ranson Elementary School,600 North Preston Street ,Ranson,25438
+PUBLIC,Jefferson,Shepherdstown Middle School,54 Minden Avenue ,Shepherdstown,25443
+PUBLIC,Jefferson,North Jefferson Elementary,6996 Charles Town Road ,Kearneysville,25430
+PUBLIC,Jefferson,Charles Town Middle School,193 High Street ,Charles Town,25414
+PUBLIC,Jefferson,T A Lowery Elementary School,103 Shenandoah Junction Road ,Shenandoah Junction,25442
+PUBLIC,Kanawha,Pinch Elementary School,300 South Pinch Rd ,Elkview,25071
+PUBLIC,Kanawha,Holz Elementary School,1505 Hampton Rd ,Charleston,25314
+PUBLIC,Kanawha,Ben Franklin Career Center,500 28th Street ,Dunbar,25064
+PUBLIC,Kanawha,Cedar Grove Elementary School,Po Box J ,Cedar Grove,25039
+PUBLIC,Kanawha,Stonewall Jackson Middle School,812 Park Avenue ,Charleston,25302
+PUBLIC,Kanawha,Andrew Jackson Middle School,5445 Big Tyler Road ,Charleston,25313
+PUBLIC,Kanawha,Sissonville Elementary School,8324 Sissonville Drive ,Sissonville,25320
+PUBLIC,Kanawha,Nitro Elementary School,1921 19th Street ,Nitro,25143
+PUBLIC,Kanawha,Glenwood Elementary School,810 Grant St ,Charleston,25302
+PUBLIC,Kanawha,Riverside High School,#1 Warrior Way ,Belle,25015
+PUBLIC,Kanawha,Bonham Elementary School,"Route 1, Box 425a ",Charleston,25312
+PUBLIC,Kanawha,Sissonville Middle School,100 Middle School Lane ,Charleston,25312
+PUBLIC,Kanawha,Mary C. Snow West Side Elementary School,100 Florida Street ,Charleston,25302
+PUBLIC,Kanawha,Sharon Dawes Elementary School,P O Box 149 ,Miami,25134
+PUBLIC,Kanawha,Midland Trail Elementary School,200 Ferry St ,Diamond,25015
+PUBLIC,Kanawha,Dunbar Primary Center,2401 Myers Avenue ,Dunbar,25064
+PUBLIC,Kanawha,South Charleston High School,1 Eagle Way ,South Charleston,25309
+PUBLIC,Kanawha,Anne Bailey Elementary School,405 Winfield Road ,St. Albans,25177
+PUBLIC,Kanawha,Horace Mann Middle School,4300 Maccorkle Avenue ,Charleston,25304
+PUBLIC,Kanawha,Piedmont Year-Round Education,203 Bradford Street ,Charleston,25301
+PUBLIC,Kanawha,Ruffner Elementary School,809 Litz Drive ,Charleston,25311
+PUBLIC,Kanawha,Marmet Elementary School,408 94th St ,Marmet,25315
+PUBLIC,Kanawha,Clendenin Elementary School,P O Box 462 ,Clendenin,25045
+PUBLIC,Kanawha,Saint Albans High School,2100 Kanawha Terrace ,St. Albans,25177
+PUBLIC,Kanawha,Alum Creek Elementary School,Rt 7 Box 279a ,So Charleston,25309
+PUBLIC,Kanawha,Elkview Middle School,5090 N Elk River Rd ,Elkview,25071
+PUBLIC,Kanawha,Elk Elementary Center,3320 Pennsylvania Ave ,Charleston,25302
+PUBLIC,Kanawha,Richmond Elementary School,4620 Spring Hill Avenue ,South Charleston,25309
+PUBLIC,Kanawha,Lakewood Elementary School,2089 Lakewood Drive ,St. Albans,25177
+PUBLIC,Kanawha,Chandler Elementary School,1900 School Street ,Charleston,25312
+PUBLIC,Kanawha,Herbert Hoover High School,5096 N Elk River Rd ,Elkview,25071
+PUBLIC,Kanawha,Du Pont Middle School,1 Panther Way ,Belle,25015
+PUBLIC,Kanawha,George C. Weimer Elementary School,3040 Kanawha Terrace ,St. Albans,25177
+PUBLIC,Kanawha,Point Harmony Elementary School,5312 Big Tyler Road ,Cross Lanes,25313
+PUBLIC,Kanawha,Kanawha City Elementary School,3601 Staunton Avenue Se ,Charleston,25304
+PUBLIC,Kanawha,Carver Career Center,4799 Midland Dr ,Charleston,25306
+PUBLIC,Kanawha,Central Elementary School,900 Helene Street ,St. Albans,25177
+PUBLIC,Kanawha,Tyler Middle School,4277 West Washington Street ,Charleston,25313
+PUBLIC,Kanawha,Cedar Grove Middle School,Po Box J ,Cedar Grove,25039
+PUBLIC,Kanawha,Watts Elementary School,230 Costello St ,Charleston,25302
+PUBLIC,Kanawha,Overbrook Elementary School,218 Overbrook Rd ,Charleston,25314
+PUBLIC,Kanawha,Grandview Elementary School,959 Woodward Drive ,Charleston,25312
+PUBLIC,Kanawha,Chandler Academy,1900 School Street,Charleston,25312
+PUBLIC,Kanawha,Bridge Elementary School,5120 Elk River Road N ,Elkview,25071
+PUBLIC,Kanawha,South Charleston Middle School,400 Third Avenue ,South Charleston,25303
+PUBLIC,Kanawha,John Adams Middle School,2002 Presidential Dr ,Charleston,25314
+PUBLIC,Kanawha,Shoals Elementary School,100 Dutch Rd ,Charleston,25302
+PUBLIC,Kanawha,Montrose Elementary School,631 Montrose Drive ,So. Charleston,25303
+PUBLIC,Kanawha,Flinn Elementary School,2006 Mcclure Parkway ,Charleston,25312
+PUBLIC,Kanawha,Capital High School,1500 Greenbrier St ,Charleston,25311
+PUBLIC,Kanawha,Belle Elementary School,401 E 6th Street ,Belle,25015
+PUBLIC,Kanawha,Mckinley Middle School,3000 Kanawha Terrace ,St. Albans,25177
+PUBLIC,Kanawha,Edgewood Elementary,550 Hawks Ridge,Charleston,25302
+PUBLIC,Kanawha,Dunbar Intermediate Center,1330 Myers Avenue ,Dunbar,25064
+PUBLIC,Kanawha,Ruthlawn Elementary School,Rt 8 Box 428 ,So Charleston,25309
+PUBLIC,Kanawha,Mary Ingles Elementary School,Po Box 367 ,Tad,25201
+PUBLIC,Kanawha,Cross Lanes Elementary School,5525 Big Tyler Road ,Charleston,25313
+PUBLIC,Kanawha,Sissonville High School,6100 Sissonville Dr. ,Charleston,25312
+PUBLIC,Kanawha,Andrews Heights Elementary School,P O  Box 340 ,Tornado,25202
+PUBLIC,Kanawha,Hayes Middle School,830 Strawberry Road ,St. Albans,25177
+PUBLIC,Kanawha,Bridgeview Elementary School,5100 Ohio Street ,South Charleston,25309
+PUBLIC,Kanawha,J E Robins Elementary School,915 Beech Ave ,Charleston,25302
+PUBLIC,Kanawha,Malden Elementary School,4001 Salinas Drive ,Charleston,25306
+PUBLIC,Kanawha,Chesapeake Elementary School,13620 Mccorkle Ave ,Chesapeake,25315
+PUBLIC,Kanawha,Nitro High School,1300 Park Avenue ,Nitro,25143
+PUBLIC,Kanawha,Alban Elementary School,2030 Harrison Avenue ,St. Albans,25177
+PUBLIC,Kanawha,East Bank Middle School,Po Box 897 ,East Bank,25067
+PUBLIC,Kanawha,Shawnee Community Center,142 Marshall Avenue ,Dunbar,25064
+PUBLIC,Kanawha,Pratt Elementary School,Center And Stark Street ,Pratt,25162
+PUBLIC,Kanawha,Kenna Elementary School,198 Eureka Rd ,Charleston,25314
+PUBLIC,Kanawha,Garnet Career Center,422 Dickinson Street ,Charleston,25301
+PUBLIC,Kanawha,Chamberlain Elementary School,4901 Venable Av S E ,Charleston,25304
+PUBLIC,Kanawha,George Washington High School,1522 Tennis Club Rd ,Charleston,25314
+PUBLIC,Kanawha,Dunbar Middle School,325 27th Street ,Dunbar,25064
+PUBLIC,Kanawha,Weberwood Elementary School,732 Gordon Road ,So. Charleston,25303
+PUBLIC,Lewis,Lewis County High School,205 Minuteman Drive ,Weston,26452
+PUBLIC,Lewis,Jane Lew Elementary School,6536 Main Street ,Jane Lew,26378
+PUBLIC,Lewis,Leading Creek Elementary,15300 US Highway 33W,Linn,26384
+PUBLIC,Lewis,Roanoke Elementary School,1176 Oil Creek Road ,Roanoke,26447
+PUBLIC,Lewis,Robert L. Bland Middle School,358 Court Avenue ,Weston,26452
+PUBLIC,Lewis,Peterson-Central Elementary School,509 Berlin Road ,Weston,26452
+PUBLIC,Lincoln,Duval Pk-8,5304 Straight Fork,Griffithsville,25521
+PUBLIC,Lincoln,Lincoln County High School,81 Lincoln Panther Way ,Hamlin,25523
+PUBLIC,Lincoln,West Hamlin Elementary,114 Dairy Road,West Hamlin,25571
+PUBLIC,Lincoln,Midway Elementary School,267 Midway Road,Alum Creek,25003
+PUBLIC,Lincoln,Hamlin Pk-8,8130 Court Ave ,Hamlin,25523
+PUBLIC,Lincoln,Guyan Valley Middle,5312 McClellan Hwy,Branchland,25506
+PUBLIC,Lincoln,Ranger Elementary,59 Vanatters Creek ,Ranger,25557
+PUBLIC,Lincoln,Harts Pk-8,1246 Mcclellan Highway ,Harts,25524
+PUBLIC,Logan,Chapmanville Middle School,300 Vance St. ,Chapmanville,25508
+PUBLIC,Logan,Buffalo Elementary School,Po Box 310 ,Accoville,25606
+PUBLIC,Logan,Man Elementary School,Box 269 ,Mallory,25634
+PUBLIC,Logan,Omar Elementary,Route 44 Box 590,Omar,25638
+PUBLIC,Logan,Verdunville Elementary School,Drawer J Hill Drive,Verdunville,25649
+PUBLIC,Logan,Logan Elementary School,Midelburg Island ,Logan,25601
+PUBLIC,Logan,Man Senior High School,800 East Mcdonald Avenue ,Man,25635
+PUBLIC,Logan,Hugh Dingess Elementary School,Rt. 1 Box 607,Harts,25524
+PUBLIC,Logan,Chapmanville Regional High School,200 Vance Street ,Chapmanville,25508
+PUBLIC,Logan,Chapmanville East Elementary School,P.o. Box 340 ,Chapmanville,25508
+PUBLIC,Logan,Logan Middle School,14 Wildcat Way ,Logan,25601
+PUBLIC,Logan,Man Middle School,Box 390 ,Mallory,25634
+PUBLIC,Logan,West Chapmanville Elementary School,100 Vance Street Box 310,Chapmanville,25508
+PUBLIC,Logan,South Man Elementary School,301 East Mcdonald Avenue ,Man,25635
+PUBLIC,Logan,Ralph R. Willis Vocational Center,Three Mile Curve Po Box 1747,Logan,25601
+PUBLIC,Logan,Justice Elementary School,407 Circle Dirve ,Logan,25601
+PUBLIC,Logan,Logan Senior High School,1 Wildcat Way ,Logan,25601
+PUBLIC,Logan,Holden Central Elementary School,Box M ,Holden,25625
+PUBLIC,Marion,Monongah Middle School,550 Camden Avenue ,Monongah,26554
+PUBLIC,Marion,East Dale Elementary School,Rt.3  57 East Dale Road ,Fairmont,26554
+PUBLIC,Marion,Fairview Middle School,17 Jesses Run Road ,Fairview,26570
+PUBLIC,Marion,Barrackville Elementary/Middle School,P O Box 150 509 Pike Street,Barrackville,26559
+PUBLIC,Marion,Marion County Technical Center,2 North Marion Drive Route 250 North,Farmington,26571
+PUBLIC,Marion,White Hall Elementary School,38 Emerald Lane ,White Hall,26554
+PUBLIC,Marion,North Marion High School,1 North Marion Drive ,Farmington,26571
+PUBLIC,Marion,Pleasant Valley Elementary School,1858 Valley School Road ,Pleasant Valley,26554
+PUBLIC,Marion,East Fairmont High School,1993 Airport Road ,Fairmont,26554
+PUBLIC,Marion,Jayenne Elementary School,1504 Country Club Road ,Fairmont,26554
+PUBLIC,Marion,West Fairmont Middle School,1010 Tenth Street ,Fairmont,26554
+PUBLIC,Marion,East Park Elementary School,1025 Fairfax Street ,Fairmont,26554
+PUBLIC,Marion,Mannington Middle School,113 Clarksburg Street ,Mannington,26582
+PUBLIC,Marion,Rivesville Elementary/Middle School,229 Phillips Avenue ,Rivesville,26588
+PUBLIC,Marion,Blackshere Elementary School,77 Blackshere Drive ,Mannington,26582
+PUBLIC,Marion,Marion Co Adult And Community Ed Center,601 Locust Ave. ,Fairmont,26554
+PUBLIC,Marion,Barnes Learning Center (Alc),100 Naomi Street ,Fairmont,26554
+PUBLIC,Marion,Watson Elementary School,1579 Mary Lou Retton Dr ,Fairmont,26554
+PUBLIC,Marion,Fairmont Senior High School,Loop Park Drive ,Fairmont,26554
+PUBLIC,Marion,Monongah Elementary School,628 Walnut Street ,Monongah,26554
+PUBLIC,Marion,East Fairmont Middle School,221 Mason Street,Fairmont,26554
+PUBLIC,Marion,Fairview Elementary School,Po Box 39 100 School Street,Fairview,26570
+PUBLIC,Marshall,Moundsville Middle School,223 Tomlinson Avenue ,Moundsville,26041
+PUBLIC,Marshall,Washington Lands Elementary School,Rr 4 Box 255 ,Moundsville,26041
+PUBLIC,Marshall,Mcninch Primary School,2600 Fourth Street ,Moundsville,26041
+PUBLIC,Marshall,John Marshall Adult Prep,John Marshall High School 1300 Wheeling Avenue,Glen Dale,26038
+PUBLIC,Marshall,Glen Dale Elementary School,407 Seventh Street ,Glen Dale,26038
+PUBLIC,Marshall,John Marshall High School,1300 Wheeling Avenue ,Glen Dale,26038
+PUBLIC,Marshall,Cameron Elementary School,12 Church Street ,Cameron,26033
+PUBLIC,Marshall,Sherrard Middle School,1000 Fairmont Pike ,Wheeling,26003
+PUBLIC,Marshall,Hilltop Elementary School,2 Ram Drive ,Wheeling,26003
+PUBLIC,Marshall,Sand Hill Elementary School,Rr 1 Box 87 ,Dallas,26036
+PUBLIC,Marshall,Center Mcmechen Elementary School,800 Marshall Street ,Mcmechen,26040
+PUBLIC,Marshall,Gateway Achievement Center,21 Park Street ,Moundsville,26041
+PUBLIC,Marshall,Central Elementary School,750 Tomlinson Avenue ,Moundsville,26041
+PUBLIC,Marshall,Cameron High School,61 Maple Avenue ,Cameron,26033
+PUBLIC,Mason,Beale Elementary School,12897 Huntington Road,Gallipolis Ferry,25515
+PUBLIC,Mason,Wahama High School,P.o. Box 348 ,Mason,25260
+PUBLIC,Mason,Hannan High School,15638 Ashton Upland Road ,Ashton,25503
+PUBLIC,Mason,Pt. Pleasant Primary,2200 Lincoln Ave ,Pt. Pleasant,0
+PUBLIC,Mason,Roosevelt Elementary School,Route 2 Box 841 ,Point Pleasant,25550
+PUBLIC,Mason,Leon Elementary School,138 Aylor Street ,Leon,25123
+PUBLIC,Mason,Mason County Career Center,281 Scenic Drive ,Point Pleasant,25550
+PUBLIC,Mason,Point Pleasant Junior/Senior High School,Rt. 1 Box 4 ,Point Pleasant,25550
+PUBLIC,Mason,Pt. Pleasant Intermediate,1 Walden Way ,Pt. Pleasant,0
+PUBLIC,Mason,Ashton Elementary School,4250 Ashton-Upland Road ,Ashton,25503
+PUBLIC,Mason,Mason County School For Success,758 Scenic Drive,Point Pleasant,25550
+PUBLIC,Mason,New Haven Elementary School,P.o. Box 989 ,New Haven,25265
+PUBLIC,McDowell,River View High School,512 Mountaineer Highway ,Bradshaw,24817
+PUBLIC,McDowell,Southside K-8,Po Box 730 ,War,24892
+PUBLIC,McDowell,Kimball Elementary School,Box 308 Route #52,Kimball,24853
+PUBLIC,McDowell,Fall River Elementary School,Route 7 Drawer 70 ,Big Sandy,24816
+PUBLIC,McDowell,Career And Technology Center,Drawer V ,Welch,24801
+PUBLIC,McDowell,Anawalt Elementary School,Box 230 ,Anawalt,24808
+PUBLIC,McDowell,Mount View High School,960 Mount View Road ,Welch,24801
+PUBLIC,McDowell,Sandy River Middle School,P.o. Box 419 ,Avondale,24811
+PUBLIC,McDowell,Welch Elementary School,1235 Stewart Street ,Welch,24801
+PUBLIC,McDowell,Iaeger Elementary School,P.o. Box 359 Waters Street,Iaeger,24844
+PUBLIC,McDowell,Bradshaw Elementary School,P.o. Box 40 ,Bradshaw,24817
+PUBLIC,McDowell,Phoenix Center,275 Virginia Avenue ,Welch,24801
+PUBLIC,Mercer,Pikeview Middle School,3550 Eads Mill Road ,Princeton,24740
+PUBLIC,Mercer,Mercer Elementary School,1200 Mercer Street ,Princeton,24740
+PUBLIC,Mercer,Princeton Primary,219b Old Bluefield Road ,Princeton,24740
+PUBLIC,Mercer,Melrose Elementary School,"Hc 71, Box 257 ",Princeton,24740
+PUBLIC,Mercer,Mercer County Early Learning Center,821 Broadway Street ,Princeton,24740
+PUBLIC,Mercer,Glenwood School,1734 Glenwood Park Road ,Princeton,24740
+PUBLIC,Mercer,Pikeview High School,3566 Eads Mill Road ,Princeton,24740
+PUBLIC,Mercer,Sun Valley Elementary School,Po Box 10 ,Lerona,25971
+PUBLIC,Mercer,Brushfork Elementary School,Rt 4  Box 93 ,Bluefield,24701
+PUBLIC,Mercer,Montcalm High School,5366 Simmons River Road,Rock,24747
+PUBLIC,Mercer,Spanishburg School,Po Box 7 ,Spanishburg,25922
+PUBLIC,Mercer,Athens School,Po Box 568 ,Athens,24712
+PUBLIC,Mercer,Princeton Middle School,300 N. Johnston Street ,Princeton,24740
+PUBLIC,Mercer,Montcalm Elementary School,Rt 2 Box 35 ,Rock,24747
+PUBLIC,Mercer,Bluefield Middle School,2002 Stadium Drive ,Bluefield,24701
+PUBLIC,Mercer,Memorial Primary,319  Memorial Avenue ,Bluefield,24701
+PUBLIC,Mercer,Bluefield Intermediate,1301 Southview Drive ,Bluefield,24701
+PUBLIC,Mercer,Lashmeet/Matoaka School,Po  Box 408 ,Matoaka,24736
+PUBLIC,Mercer,Mercer County Technical Education Center,1397 Stafford Drive ,Princeton,24740
+PUBLIC,Mercer,Whitethorn Elementary School,1919 Maryland Avenue ,Bluefield,24701
+PUBLIC,Mercer,Ceres Elementary School,Rt 2  Box 189 ,Bluefield,24701
+PUBLIC,Mercer,Princeton Senior High School,1321 Stafford Drive ,Princeton,24740
+PUBLIC,Mercer,Straley Elementary School,810 Straley Avenue ,Princeton,24740
+PUBLIC,Mercer,Bluewell Elementary School,Rt 4  Box 480 ,Bluefield,24701
+PUBLIC,Mercer,Bluefield High School,535 West Cumberland Road ,Bluefield,24701
+PUBLIC,Mercer,Oakvale School,2503 Goodwins Chapel Road ,Princeton,24740
+PUBLIC,Mineral,Burlington Primary,10474 Patterson Creek Road,Burlington,26710
+PUBLIC,Mineral,Mineral County Alternative School,89 Baker Place,Keyser,26726
+PUBLIC,Mineral,Elk Garden School,86 Elk Garden Highway,Elk Garden,26717
+PUBLIC,Mineral,Frankfort High School,393 Falcon Way,Ridgeley,26753
+PUBLIC,Mineral,Frankfort Middle School,356 Golden Drive,Ridgeley,26753
+PUBLIC,Mineral,New Creek Primary School,"PO Box 97, 85 New Creek School Road",New Creek,26743
+PUBLIC,Mineral,Fort Ashby Primary School,44 Fort Ashby Primary School Road,Ft. Ashby,26719
+PUBLIC,Mineral,Mineral County Technical Center,981 Harley O. Staggers Drive ,Keyser,26726
+PUBLIC,Mineral,Keyser Middle School,879 Harley O. Staggers Drive ,Keyser,26726
+PUBLIC,Mineral,Keyser High School,328 One Tornado Way,Keyser,26726
+PUBLIC,Mineral,Frankfort Intermediate School,284 Intermediate Drive,Fort Ashby,26719
+PUBLIC,Mineral,Wiley Ford Primary School,PO Box 20 ,Wiley Ford,26767
+PUBLIC,Mineral,Fountain Primary School,289 Fountain School Road,Keyser,26726
+PUBLIC,Mineral,Keyser Primary School,1123 Harley O. Staggers Drive,Keyser,26726
+PUBLIC,Mingo,Williamson PK-8,Alderson Street ,Williamson,25661
+PUBLIC,Mingo,Mingo Central Comprehensive High,1000 King Coal Highway,Delbarton,25670
+PUBLIC,Mingo,Mingo County Extended Learning Center,Rt. 2 Box 52-A,Delbarton,25670
+PUBLIC,Mingo,Matewan Elementary School,100 Chambers Street ,Matewan,25678
+PUBLIC,Mingo,Williamson High School,801 Alderson Street ,Williamson,25661
+PUBLIC,Mingo,Gilbert Elementary,Rt. 52 Elementary School Dr. ,Gilbert,25621
+PUBLIC,Mingo,Gilbert High School,100 Lion Drive ,Gilbert,25621
+PUBLIC,Mingo,Burch Pk-6,Rt. 3 Box 4-B ,Delbarton,25670
+PUBLIC,Mingo,Gilbert Middle School,100 Lion Drive ,Gilbert,25621
+PUBLIC,Mingo,Matewan PK-8,200 Tiger Lane ,Matewan,25678
+PUBLIC,Mingo,Mingo Career & Technical Center,Route 2 Box 52 A ,Delbarton,25670
+PUBLIC,Mingo,Kermit Area School (K-8),Blue Devil Lane ,Kermit,25674
+PUBLIC,Mingo,Tug Valley High School,555 Panther Drive ,Williamson,25661
+PUBLIC,Mingo,Riverside Elementary School,5 Parkway Drive ,Williamson,25661
+PUBLIC,Mingo,Matewan High School,100 Tiger Lane ,Matewan,25678
+PUBLIC,Mingo,Dingess Elementary School,101 Schoolhouse Rd. ,Dingess,25671
+PUBLIC,Mingo,Burch High School,Rt. 2 Box 521-A ,Delbarton,25670
+PUBLIC,Mingo,Lenore K-8 School,#1 Ranger Drive ,Williamson,25661
+PUBLIC,Mingo,Burch PK-8,Rt. 2 Box 52-1a ,Delbarton,25670
+PUBLIC,Monongalia,Mason-Dixon  Elementary,7041 Mason Dixon Highway ,Blacksville,26521
+PUBLIC,Monongalia,University High School,131 Baker`s Ridge Road ,Morgantown,26508
+PUBLIC,Monongalia,Cheat Lake Elementary School,154 Crosby Road ,Morgantown,26508
+PUBLIC,Monongalia,Clay-Battelle High School,Drawer A ,Blacksville,26521
+PUBLIC,Monongalia,North Elementary School,825 Chestnut Ridge Road ,Morgantown,26505
+PUBLIC,Monongalia,Eastwood Elementary School,677 201 St. Memorial Hwy,Morgantown,26505
+PUBLIC,Monongalia,South Middle School,500 East Parkway Drive ,Morgantown,26501
+PUBLIC,Monongalia,Brookhaven Elementary School,1215 Baker Street ,Morgantown,26508
+PUBLIC,Monongalia,Mountaineer Middle School,991 Price Street ,Morgantown,26505
+PUBLIC,Monongalia,Skyview Elementary School,668 River Road ,Morgantown,26501
+PUBLIC,Monongalia,Technical Education Center,1000 Mississippi Street ,Morgantown,26501
+PUBLIC,Monongalia,Mountainview Elementary School,661 Greenbag Road ,Morgantown,26508
+PUBLIC,Monongalia,Morgantown High School,109 Wilson Avenue ,Morgantown,26501
+PUBLIC,Monongalia,Suncrest Primary,523 Junior Avenue ,Morgantown,26505
+PUBLIC,Monongalia,Suncrest Middle School,360 Baldwin Street ,Morgantown,26505
+PUBLIC,Monongalia,Ridgedale Elementary School,1550 Goshen Road ,Morgantown,26508
+PUBLIC,Monongalia,Westwood Middle School,670 River Road ,Morgantown,26501
+PUBLIC,Monongalia,Mylan Park Elementary School,901 Mylan Park Lane ,Morgantown,26501
+PUBLIC,Monroe,James Monroe High School,Rt. 1 Box 97-1-A James Monroe Drive,Lindside,24951
+PUBLIC,Monroe,Mountain View Elementary & Middle School,Mt. View Drive P.o. Box 620,Union,24983
+PUBLIC,Monroe,Monroe County Vocational Center,"Route 1, Box 97 James Monroe Drive",Lindside,24951
+PUBLIC,Monroe,Peterstown Middle School,108 College Drive ,Peterstown,24963
+PUBLIC,Monroe,Peterstown Elementary,36 College Drive ,Peterstown,24963
+PUBLIC,Morgan,Berkeley Springs High School,149 Concord Avenue ,Berkeley Springs,25411
+PUBLIC,Morgan,Warm Springs Intermediate School,575 Warm Springs Way ,Berkeley Springs,25411
+PUBLIC,Morgan,Pleasant View Elementary School,10500 Martinsburg Road ,Hedgesville,25427
+PUBLIC,Morgan,Greenwood Elementary School,8989 Winchester Grade Road ,Berkeley Springs,25411
+PUBLIC,Morgan,Paw Paw High School,60 Pirate Circle ,Paw Paw,25434
+PUBLIC,Morgan,Warm Springs Middle School,271 Warm Springs Way ,Berkeley Springs,25411
+PUBLIC,Morgan,Widmyer Elementary,10 Myers Road ,Berkeley Springs,25411
+PUBLIC,Morgan,Paw Paw Elementary School,60 Pirate Circle ,Paw Paw,25434
+PUBLIC,Nicholas,Richwood High School,1 Valley Ave. ,Richwood,26261
+PUBLIC,Nicholas,Gauley River Elementary,100 School Street,Craigsville,26205
+PUBLIC,Nicholas,Summersville Middle School,40 Grizzly Rd ,Summersville,26651
+PUBLIC,Nicholas,Birch River Elementary School,379 Birch River Road ,Birch River,26610
+PUBLIC,Nicholas,Panther Creek Elementary School,10068 Canvas Nettie Road P.o.box 39,Nettie,26681
+PUBLIC,Nicholas,Summersville Elementary School,108 Mckees Creek Rd ,Summersville,26651
+PUBLIC,Nicholas,Mt Lookout Elementary School,1945 Mt. Lookout Road ,Mt Lookout,26678
+PUBLIC,Nicholas,Nicholas County Career/Technical Center,215 Milam Addition Rd ,Craigsville,26205
+PUBLIC,Nicholas,Dixie Elementary School,Po Box 288 1988 Dixie Highway,Dixie,25059
+PUBLIC,Nicholas,Nicholas County High School,30 Grizzly Rd ,Summersville,26651
+PUBLIC,Nicholas,Cherry River Elementary School,190 Riverside Drive ,Richwood,26261
+PUBLIC,Nicholas,Richwood Middle School,2 Valley Avenue ,Richwood,26261
+PUBLIC,Nicholas,Zela Elementary School,165 Country Road ,Summersville,26651
+PUBLIC,Nicholas,Mt Nebo Elementary School,Po Box 160 110 Schoolhouse Lane,Mt. Nebo,26651
+PUBLIC,Nicholas,Glade Creek Elementary School,7950 Webster Road ,Summersville,26651
+PUBLIC,Ohio,West Liberty Elementary School,745 Van Meter Way ,Wheeling,26003
+PUBLIC,Ohio,Ritchie Elementary School,3700 Wood St ,Wheeling,26003
+PUBLIC,Ohio,Madison Elementary School,91 Zane St ,Wheeling,26003
+PUBLIC,Ohio,Wheeling Middle School,35th and Chapline St ,Wheeling,26003
+PUBLIC,Ohio,Bethlehem Elementary School,22 Chapel Rd ,Wheeling,26003
+PUBLIC,Ohio,Triadelphia Middle School,1636 National Rd ,Wheeling,26003
+PUBLIC,Ohio,Woodsdale Elementary School,1 Bethany Pike ,Wheeling,26003
+PUBLIC,Ohio,Steenrod Elementary School,100 Clarks Ln ,Wheeling,26003
+PUBLIC,Ohio,Middle Creek Elementary School,579 Middle Creek Road ,Triadelphia,26059
+PUBLIC,Ohio,Wheeling Park High School,1976 Park View Rd ,Wheeling,26003
+PUBLIC,Ohio,Elm Grove Elementary School,85 Mil Acres Dr ,Wheeling,26003
+PUBLIC,Ohio,Warwood School,150 Viking Dr ,Wheeling,26003
+PUBLIC,Ohio,Bridge Street Middle School,19 Junior Ave ,Wheeling,26003
+PUBLIC,Pendleton,Brandywine Elementary School,11480 Blue Gray Trail P. O. Box 247,Brandywine,26802
+PUBLIC,Pendleton,Pendleton County Middle/High School,Po Box 40 409 Maple Avenue,Franklin,26807
+PUBLIC,Pendleton,Franklin Elementary School,67 South Branch Street Po Box 848,Franklin,26807
+PUBLIC,Pendleton,North Fork Elementary School,"Po Box 186, 189 Price Way",Circleville,26804
+PUBLIC,Pleasants,Mid Ohio Valley Technical Institute,2134 N Pleasants Highway ,St Marys,26170
+PUBLIC,Pleasants,Pleasants County Middle School,510 Riverview Drive ,Belmont,26134
+PUBLIC,Pleasants,Belmont Elementary School,512 Riverview Drive ,Belmont,26134
+PUBLIC,Pleasants,St. Marys High School,2330 N Pleasants Hwy,St Marys,26170
+PUBLIC,Pleasants,St. Marys Elementary School,317 Washington Street ,St Marys,26170
+PUBLIC,Pocahontas,Pocahontas County High School,"Route 1, Box 133a ",Dunmore,24934
+PUBLIC,Pocahontas,Marlinton Elementary School,926a Fifth Avenue ,Marlinton,24954
+PUBLIC,Pocahontas,Hillsboro Elementary School,"Hc 64, Box 399 ",Hillsboro,24946
+PUBLIC,Pocahontas,Marlinton Middle School,"Route 2, Box 52s ",Buckeye,24924
+PUBLIC,Pocahontas,Green Bank Elementary-Middle School,"Route 1, Box 5 ",Green Bank,24944
+PUBLIC,Preston,Terra Alta/East Preston School,1103 East State Avenue ,Terra Alta,26764
+PUBLIC,Preston,Rowlesburg School,46 Center Street ,Rowlesburg,26425
+PUBLIC,Preston,South Preston School,5258 South Preston Highway,Tunnelton,26444
+PUBLIC,Preston,West Preston School,113 Eby School Road,Arthurdale,26520
+PUBLIC,Preston,Central Preston Middle School,500 Knight Drive ,Kingwood,26537
+PUBLIC,Preston,Fellowsville Elementary,139 Fellowsville School Rd ,Tunnelton,26444
+PUBLIC,Preston,Bruceton School,P.o. Box 141 141 Morgantown Street,Bruceton Mills,26525
+PUBLIC,Preston,Aurora Elementary,125 Aurora School Road ,Aurora,26705
+PUBLIC,Preston,Preston High School,400 Knight Drive ,Kingwood,26537
+PUBLIC,Preston,Kingwood Elementary,207 S Price Street ,Kingwood,26537
+PUBLIC,Putnam,Poca Middle School,P.o. Box 647 Route 62 South,Poca,25159
+PUBLIC,Putnam,Hometown Elementary,P.o. Box 249 Route 62 North,Hometown,25109
+PUBLIC,Putnam,George Washington Middle School,P.o. Box 660 Route 62 North,Eleanor,25070
+PUBLIC,Putnam,Eastbrook Elementary School,1600 Bills Creek Road ,Winfield,25213
+PUBLIC,Putnam,Winfield Elementary,2 Wall Street ,Winfield,25213
+PUBLIC,Putnam,Confidence Elementary,Hc Box 163 ,Red House,25168
+PUBLIC,Putnam,Winfield High School,3022 Winfield Road ,Winfield,25213
+PUBLIC,Putnam,Scott Teays Elementary,4308 Teays Valley Road ,Scott Depot,25560
+PUBLIC,Putnam,Hurricane High School,3350 Teays Valley Road ,Hurricane,25526
+PUBLIC,Putnam,Poca Elementary,P.o. Box 430 Route 62 South,Poca,25159
+PUBLIC,Putnam,Winfield Middle School,3280 Winfield Road ,Winfield,25213
+PUBLIC,Putnam,Hurricane Town Elementary,300 Harbour Lane ,Hurricane,25526
+PUBLIC,Putnam,Hurricane Middle,518 Midland Trail ,Hurricane,25526
+PUBLIC,Putnam,George Washington Elementary School,P.o. Box 680 Route 62 North,Eleanor,25070
+PUBLIC,Putnam,Mountain View Elementary School,3967 Teays Valley Road ,Hurricane,25526
+PUBLIC,Putnam,Conner Street Elementary,445 Conner Street ,Hurricane,25526
+PUBLIC,Putnam,Putnam Career & Technical Center,P.o. Box 640 300 Roosevelt Bldv,Eleanor,25070
+PUBLIC,Putnam,West Teays Elementary,3676 Teays Vly Road ,Hurricane,25526
+PUBLIC,Putnam,Buffalo Elementary School,"Rt. 2, Box 93 ",Buffalo,25033
+PUBLIC,Putnam,Poca High School,"Rt. 1, Box 5b ",Poca,25159
+PUBLIC,Putnam,Rock Branch Elementary,4616 1st Avenue ,Nitro,25143
+PUBLIC,Putnam,Buffalo High School,3317 Buffalo Road ,Buffalo,25033
+PUBLIC,Putnam,Lakeside Elementary,2550 Us Rt 60 ,Hurricane,25526
+PUBLIC,Raleigh,Bradley Elementary School,210 Bradley School Road ,Mt Hope,25880
+PUBLIC,Raleigh,Park Middle School,212 Park Avenue ,Beckley,25801
+PUBLIC,Raleigh,Hollywood Elementary,Po Box 7 ,Macarthur,25873
+PUBLIC,Raleigh,Raleigh-Boone Technical Center,11823 Coal River Road ,Whitesville,25209
+PUBLIC,Raleigh,Beckley Elementary,399 Gray Flats Road ,Beckley,25801
+PUBLIC,Raleigh,Fairdale Elementary School,Po Box 10 ,Fairdale,25839
+PUBLIC,Raleigh,Woodrow Wilson High School,400 Stanaford Road ,Beckley,25801
+PUBLIC,Raleigh,Marsh Fork Elementary,5690 Coal River Road ,Naoma,25174
+PUBLIC,Raleigh,Crescent Elementary,205 Crescent Road ,Beckley,25801
+PUBLIC,Raleigh,Liberty High School,Po Box 265 ,Glen Daniel,25844
+PUBLIC,Raleigh,Shady Spring Elementary,Po Box 2009 ,Shady Spring,25918
+PUBLIC,Raleigh,Crab Orchard Elementary,Po Box 727 Rt 16,Crab Orchard,25827
+PUBLIC,Raleigh,Beckley-Stratton Middle School,401 Gray Flats Road ,Beckley,25801
+PUBLIC,Raleigh,Maxwell Hill Elementary,1001 Maxwell Hill Road ,Beckley,25801
+PUBLIC,Raleigh,Clear Fork District Elementary,P.o. Box 127 ,Clear Creek,25044
+PUBLIC,Raleigh,Shady Spring Middle School,500 Flat Top Road ,Shady Spring,25918
+PUBLIC,Raleigh,Lester Elementary,Box 727 ,Lester,25865
+PUBLIC,Raleigh,Trap Hill Middle School,665 Coal River Road ,Glen Daniel,25844
+PUBLIC,Raleigh,Ghent Elementary,Po Box 350 ,Ghent,25843
+PUBLIC,Raleigh,Academy Of Careers And Technology,390 Stanaford Road ,Beckley,25801
+PUBLIC,Raleigh,Stratton Elementary,1129 South Fayette Street ,Beckley,25801
+PUBLIC,Raleigh,Daniels Elementary,Box 689 4-H Lake Road,Daniels,25832
+PUBLIC,Raleigh,Shady Spring High,Po Box 2001 ,Shady Spring,25918
+PUBLIC,Raleigh,Sophia-Soak Creek Elementary,Po Box 487 ,Sophia,25921
+PUBLIC,Raleigh,Cranberry-Prosperity Elementary,4575 Robert C Byrd Dr ,Beckley,25801
+PUBLIC,Raleigh,Independence High School,Po Box 1595 ,Coal City,25823
+PUBLIC,Raleigh,Stanaford Elementary School,950 Stanaford Road ,Beckley,25801
+PUBLIC,Raleigh,Coal City Elementary,Po Box 1240 ,Coal City,25823
+PUBLIC,Raleigh,Independence Middle School,Po Box 1171 ,Sophia,25921
+PUBLIC,Raleigh,Mabscott Elementary,Box 174 ,Mabscott,25871
+PUBLIC,Randolph,Elkins Middle School,308 Robert E. Lee Avenue ,Elkins,26241
+PUBLIC,Randolph,Coalton Elementary School,P.o. Box 129 ,Coalton,26257
+PUBLIC,Randolph,North Elementary School,"Route 2, Box 320 ",Elkins,26241
+PUBLIC,Randolph,Homestead Elementary School,P.o. Box 158 ,Dailey,26259
+PUBLIC,Randolph,Elkins Third Ward Elementary School,111 Nathan Street ,Elkins,26241
+PUBLIC,Randolph,Randolph County Alternative Center,40 11th Street ,Elkins,26241
+PUBLIC,Randolph,Beverly Elementary School,P.o. Box 209 ,Beverly,26253
+PUBLIC,Randolph,Tygarts Valley Middle/High School,10189 Seneca Trail,Mill Creek,26280
+PUBLIC,Randolph,Harman Elementary/High School,Po Box 130 ,Harman,26270
+PUBLIC,Randolph,Valley Head Elementary School,General Delivery ,Valley Head,26294
+PUBLIC,Randolph,Midland Elementary School,150 Kennedy Drive ,Elkins,26241
+PUBLIC,Randolph,George Ward Elementary School,P.o. Box 278 ,Mill Creek,26280
+PUBLIC,Randolph,Randolph Technical Center,200 Kennedy Drive ,Elkins,26241
+PUBLIC,Randolph,Jennings Randolph Elementary School,101 Scott Ford Road ,Elkins,26241
+PUBLIC,Randolph,Elkins High School,100 Kennedy Drive ,Elkins,26241
+PUBLIC,Randolph,Pickens Elementary/High School,One Panther Place ,Pickens,26230
+PUBLIC,Ritchie,Ritchie County High School,107 Ritchie County School Rd ,Ellenboro,26346
+PUBLIC,Ritchie,Smithville Elementary,P O Box 30 ,Smithville,26178
+PUBLIC,Ritchie,Harrisville Elementary,1201 E Main Street ,Harrisville,26362
+PUBLIC,Ritchie,Ritchie County Middle,105 Ritchie County School Rd ,Ellenboro,26346
+PUBLIC,Ritchie,Creed Collins Elementary,512 Collins Avenue ,Pennsboro,26415
+PUBLIC,Ritchie,Ellenboro Elementary,P O Box 219 ,Ellenboro,26346
+PUBLIC,Roane,Roane-Jackson Technical Center,9450 Spencer Rd,Leroy,25252
+PUBLIC,Roane,Spencer Middle School,102 Chapman Avenue ,Spencer,25276
+PUBLIC,Roane,Spencer Elementary School,85 Clay Road ,Spencer,25276
+PUBLIC,Roane,Geary Elementary School,P O Box 89 ,Left Hand,25251
+PUBLIC,Roane,Roane County High,One Raider Way ,Spencer,25276
+PUBLIC,Roane,Walton Elementary/Middle School,90 School Drive ,Walton,25286
+PUBLIC,Roane,Reedy Elementary School,Roosevelt St ,Reedy,25270
+PUBLIC,Summers,Grads, ,,0
+PUBLIC,Summers,Jumping Branch Elementary School,P O  Box 9 ,Jumping Branch,25969
+PUBLIC,Summers,Talcott Elementary School,P O  Box 140 ,Talcott,24981
+PUBLIC,Summers,Summers County High School,One Bobcat Drive ,Hinton,25951
+PUBLIC,Summers,Summers Middle School,400 Temple St ,Hinton,25951
+PUBLIC,Summers,Hinton Area Elementary School,121 Park Avenue ,Hinton,25951
+PUBLIC,Taylor,Anna Jarvis Elementary School,650 N. Pike Street ,Grafton,26354
+PUBLIC,Taylor,Taylor County Vocational Center,115 Luby St ,Grafton,26354
+PUBLIC,Taylor,Taylor County Middle School,"Rt. 2, Box 148a ",Grafton,26354
+PUBLIC,Taylor,Flemington Elementary School,824 Simpson Rd,Flemington,26347
+PUBLIC,Taylor,Grafton High School,400 Riverside Drive ,Grafton,26354
+PUBLIC,Taylor,West Taylor Elementary School,200 Morrow Cross Rd,Flemington,26347
+PUBLIC,Tucker,Tucker Valley Elementary Middle School,81 Tucker Valley Road ,Hambleton,26269
+PUBLIC,Tucker,Tucker County High School,116 Mountain Lion Way ,Hambleton,26269
+PUBLIC,Tucker,Davis Thomas Elementary Middle School,100 Quail Ridge Rd Po Box 250,Thomas,26292
+PUBLIC,Tyler,Tyler Consolidated Middle School,1993 Silver Knight Drive ,Sistersville,26175
+PUBLIC,Tyler,Arthur I Boreman Elementary School,P O Box 299 ,Middlebourne,26149
+PUBLIC,Tyler,Tyler Consolidated High School,1993 Silver Knight Drive ,Sistersville,26175
+PUBLIC,Tyler,Sistersville Elementary School,651 Terrace Circle ,Sistersville,26175
+PUBLIC,Upshur,Washington District Elementary,"Hc36, Box 234 ",Buckhannon,26201
+PUBLIC,Upshur,Rock Cave Elementary,Rt 2 Box 2f Po Box 130,Rock Cave,26201
+PUBLIC,Upshur,French Creek Elementary,"Rt.2, Box 305 ",French Creek,26218
+PUBLIC,Upshur,Buckhannon Upshur High School,50 B.u. Drive ,Buckhannon,26201
+PUBLIC,Upshur,Union Elementary School,20 Heavener Grove Road ,Buckhannon,26201
+PUBLIC,Upshur,Tennerton Elementary,"Route 6, Box 513 ",Buckhannon,26201
+PUBLIC,Upshur,Hodgesville Elementary,"Rt.5, Box 383 ",Buckhannon,26201
+PUBLIC,Upshur,Buckhannon Academy Elementary School,16 College Avenue ,Buckhannon,26201
+PUBLIC,Upshur,Fred Eberle Technical Center,RR 5 Box 2,Buckhannon,26201
+PUBLIC,Upshur,B-U Middle School,"Rt. 6, Box 303 ",Buckhannon,26201
+PUBLIC,Wayne,Tolsia High School,#1 Rebel Drive ,Fort Gay,25514
+PUBLIC,Wayne,Genoa Elementary School,21269 Rt 152 Road ,Genoa,25517
+PUBLIC,Wayne,Vinson Middle School,3851 Piedmont Road ,Huntington,25704
+PUBLIC,Wayne,Buffalo Elementary School,331 Buffalo Creek Road ,Kenova,25530
+PUBLIC,Wayne,Ceredo-Kenova Middle School,P.o. Box 705 4th St. West And High St,Ceredo,25507
+PUBLIC,Wayne,East Lynn Elementary School,19594 East Lynn Road,East Lynn,25512
+PUBLIC,Wayne,Prichard Elementary School,500 Prichard Rd.,Prichard,25555
+PUBLIC,Wayne,Spring Valley High School,#1 Timberwolf Drive ,Huntington,25704
+PUBLIC,Wayne,Kellogg Elementary School,4415 Piedmont Road ,Huntington,25704
+PUBLIC,Wayne,Crum Pre K-8,150 Crum Road,Crum,25669
+PUBLIC,Wayne,Wayne High School,100 Pioneer Road ,Wayne,25570
+PUBLIC,Wayne,Dunlow Elementary School,32800 Route 152,Dunlow,25511
+PUBLIC,Wayne,Fort Gay PreK - 8,#1 Viking Drive,Fort Gay,25514
+PUBLIC,Wayne,Wayne Middle School,200 Pioneer Road ,Wayne,25570
+PUBLIC,Wayne,Buffalo Middle School,298 Buffalo Creek Road ,Kenova,25530
+PUBLIC,Wayne,Wayne Elementary School,80 McGinnis Drive,Wayne,25570
+PUBLIC,Wayne,Lavalette Elementary School,P.o. Box 380 ,Lavalette,25535
+PUBLIC,Wayne,Ceredo-Kenova Elementary,1 Wonders Lane,Kenova,25530
+PUBLIC,Webster,Glade Middle School,25 Mill Street ,Cowen,26206
+PUBLIC,Webster,Hacker Valley Elementary School,11 School Loop Road ,Hacker Valley,26222
+PUBLIC,Webster,Diana Elementary School,Po Box 90 ,Diana,26217
+PUBLIC,Webster,Webster County High School,One Highlander Drive ,Upperglade,26266
+PUBLIC,Webster,Webster Springs Elementary School,318 River Drive ,Webster Springs,26288
+PUBLIC,Webster,Glade Elementary School,25 Mill St. ,Cowen,26206
+PUBLIC,Wetzel,Valley High School,One Lumberjack Lane ,Pine Grove,26419
+PUBLIC,Wetzel,Magnolia High School,601 Maple Avenue ,New Martinsville,26155
+PUBLIC,Wetzel,Wetzel Co. Ctr. For Children & Families,Rr2 Box 107 ,New Martinsville,26155
+PUBLIC,Wetzel,Paden City Elementary School,510 N Second Avenue ,Paden City,26159
+PUBLIC,Wetzel,Long Drain School,Rt 1 Box 108-A ,Metz,26585
+PUBLIC,Wetzel,Paden City High School,201 N Fourth Avenue ,Paden City,26159
+PUBLIC,Wetzel,Hundred High School,P O  Box 830 ,Hundred,26575
+PUBLIC,Wetzel,Short Line School,Hc 60 Box 170 ,Reader,26167
+PUBLIC,Wetzel,New Martinsville School,20 E Benjamin Drive ,New Martinsville,26155
+PUBLIC,Wirt,Wirt County High School,P O Box 219 ,Elizabeth,26143
+PUBLIC,Wirt,Wirt County Primary Center,P O  Box 220 ,Elizabeth,26143
+PUBLIC,Wirt,Wirt County Middle School,P O Box 699 ,Elizabeth,26143
+PUBLIC,Wood,Trek Center,615 Broadway Ave ,Parkersburg,26101
+PUBLIC,Wood,Worthington Elementary School,2500 36th St ,Parkersburg,26104
+PUBLIC,Wood,Greenmont Elementary School,209 58th St ,Vienna,26105
+PUBLIC,Wood,Parkersburg South High School,1511 Blizzard Dr ,Parkersburg,26101
+PUBLIC,Wood,Waverly Elementary School,422 Virginia St ,Waverly,26184
+PUBLIC,Wood,Fairplains Elementary School,615 Broadway Ave ,Parkersburg,26101
+PUBLIC,Wood,Van Devender Middle School,918 31st St ,Parkersburg,26104
+PUBLIC,Wood,Neale Elementary School,2305 Grand Central Ave ,Vienna,26105
+PUBLIC,Wood,Criss Elementary School,2800 22nd St ,Parkersburg,26101
+PUBLIC,Wood,Hamilton Middle School,3501 Cadillac Dr ,Parkersburg,26104
+PUBLIC,Wood,Mckinley Elementary School,1130 19th St ,Parkersburg,26101
+PUBLIC,Wood,Blennerhassett Middle School,444 Jewel Rd ,Parkersburg,26101
+PUBLIC,Wood,Lubeck Elementary School,206 Lubeck Rd ,Parkersburg,26101
+PUBLIC,Wood,Wood Co Voc Tech Ctr,1515 Blizzard Dr ,Parkersburg,26101
+PUBLIC,Wood,Franklin Elementary Center,1511 Division St Ext ,Parkersburg,26101
+PUBLIC,Wood,Jefferson Elementary Center,1103 Plum St ,Parkersburg,26101
+PUBLIC,Wood,Williamstown High School,219 W 5th St ,Williamstown,26187
+PUBLIC,Wood,Williamstown Elementary School,418 Williams Ave ,Williamstown,26187
+PUBLIC,Wood,Gihon Elementary School,2000 Belmont Rd ,Parkersburg,26101
+PUBLIC,Wood,Parkersburg High School,2101 Dudley Ave ,Parkersburg,26101
+PUBLIC,Wood,Vienna Elementary School,700 41st St ,Vienna,26105
+PUBLIC,Wood,Emerson Elementary School,1605 36th St ,Parkersburg,26101
+PUBLIC,Wood,Jackson Middle School,1601 34th St ,Vienna,26105
+PUBLIC,Wood,Mineral Wells Elementary School,1776 Elizabeth Pike ,Mineral Wells,26150
+PUBLIC,Wood,Blennerhassett Elementary School,448 Jewel Rd ,Parkersburg,26101
+PUBLIC,Wood,Edison Middle School,1201 Hillcrest St ,Parkersburg,26101
+PUBLIC,Wood,Madison Elementary School,1426 32nd St ,Parkersburg,26101
+PUBLIC,Wood,Caperton Center For Applied Technology,300 Campus Dr ,Parkersburg,26101
+PUBLIC,Wood,Martin Elementary School,1301 Hillcrest St ,Parkersburg,26101
+PUBLIC,Wood,Kanawha Elementary School,6465 Staunton Tpke ,Davisville,26142
+PUBLIC,Wyoming,Berlin Mckinney Elementary School,Hc 65  Box 402 405 Cook Parkway,Oceana,24870
+PUBLIC,Wyoming,Pineville Middle School,Po Box 470 607 River Road,Pineville,24874
+PUBLIC,Wyoming,Mullens Middle School,801 Moran Avenue ,Mullens,25882
+PUBLIC,Wyoming,Pineville Elementary School,"Po Box 700, 541 River Road",Pineville,24874
+PUBLIC,Wyoming,Huff Cons Elementary & Middle School,"374 Lizard Creek Rd, Drawer E",Hanover,24839
+PUBLIC,Wyoming,Wyoming County Career & Technical Center,"Hcr 72 Box 200, 1201 Bear Hole Road",Pineville,24874
+PUBLIC,Wyoming,Glen Fork Elementary & Middle School,Po Box 50 111 Glen Fork Hollow Road,Glen Fork,25845
+PUBLIC,Wyoming,Wyoming County East High School,"PO Box 390, 260 Warrior Way",New Richmond,24867
+PUBLIC,Wyoming,Baileysville Elementary & Middle School,Drawer 409 11618 R.d. Bailey Highway,Brenton,24818
+PUBLIC,Wyoming,Oceana Middle School,Hc 65  Box 403 309 Cook Parkway,Oceana,24870
+PUBLIC,Wyoming,Road Branch Elementary & Middle School,"1165 Huff Creek Road, HC 80 Box 422",Cyclone,24827
+PUBLIC,Wyoming,Mullens Elementary School,2107 Caloric Road ,Mullens,25882
+PUBLIC,Wyoming,Herndon Cons Elementary & Middle School,Po Box 309 4456 Herndon Road,Bud,24716
+PUBLIC,Wyoming,Westside High School,Hc 65  Box 275 122 Renegade Road,Clear Fork,24822
