@@ -5,10 +5,10 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::Checked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="drugOverdoseDeaths2016_5_220180426195138797" source="file:///Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/drugOverdoseDeaths2016_5.2.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="drugOverdoseDeaths2016_5.2">
+    <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="drugOverdoseDeaths2004_420180426205834404" source="file:///Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/drugDeathsByYear/drugOverdoseDeaths2004_4.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="drugOverdoseDeaths2004_4">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="countyBoundariesUSCensus2000_utm83_shp20180426191754845" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="countyBoundariesUSCensus2000_utm83_shp20180426203213170" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -37,27 +37,114 @@
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
     <layer_coordinate_transform_info>
-      <layer_coordinate_transform destAuthId="EPSG:26917" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp20180426191754845"/>
+      <layer_coordinate_transform destAuthId="EPSG:26917" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp20180426203213170"/>
     </layer_coordinate_transform_info>
   </mapcanvas>
   <layer-tree-canvas>
     <custom-order enabled="0">
-      <item>countyBoundariesUSCensus2000_utm83_shp20180426191754845</item>
-      <item>drugOverdoseDeaths2016_5_220180426195138797</item>
+      <item>countyBoundariesUSCensus2000_utm83_shp20180426203213170</item>
+      <item>drugOverdoseDeaths2004_420180426205834404</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="drugOverdoseDeaths2016_5.2" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="drugOverdoseDeaths2004_4" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="drugOverdoseDeaths2016_5_220180426195138797" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="drugOverdoseDeaths2004_420180426205834404" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp20180426191754845" visible="1"/>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp20180426203213170" visible="1"/>
       </filegroup>
     </legendlayer>
   </legend>
+  <Composer title="percentageDrugDeaths2004ChoroplethNoLabels" visible="1">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{b40c316d-537f-46c6-b1e0-e4e25d8c7eba}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+      <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+        <layer pass="0" class="SimpleFill" locked="0">
+          <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="color" v="255,255,255,255"/>
+          <prop k="joinstyle" v="miter"/>
+          <prop k="offset" v="0,0"/>
+          <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="outline_color" v="0,0,0,255"/>
+          <prop k="outline_style" v="no"/>
+          <prop k="outline_width" v="0.26"/>
+          <prop k="outline_width_unit" v="MM"/>
+          <prop k="style" v="solid"/>
+        </layer>
+      </symbol>
+      <ComposerLegend symbolWidth="7" title="% of deaths by drug overdose" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#0000ff" legendFilterByAtlas="0" columnCount="1" wmsLegendHeight="25" columnSpace="2" symbolHeight="4" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="2" rasterBorder="1">
+        <styles>
+          <style marginBottom="2" name="title">
+            <styleFont description="Helvetica Neue,16,-1,5,50,0,0,0,0,0" style="Light"/>
+          </style>
+          <style marginTop="2" name="group">
+            <styleFont description=".SF NS Text,14,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="subgroup">
+            <styleFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="symbol">
+            <styleFont description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" marginLeft="2" name="symbolLabel">
+            <styleFont description="Helvetica Neue,11,-1,5,50,0,0,0,0,0" style="Light"/>
+          </style>
+        </styles>
+        <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+          <customproperties/>
+          <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="drugOverdoseDeaths2004_420180426205834404" source="file:///Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/drugDeathsByYear/drugOverdoseDeaths2004_4.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="drugOverdoseDeaths2004_4">
+            <customproperties>
+              <property key="legend/title-label" value=""/>
+            </customproperties>
+          </layer-tree-layer>
+          <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="countyBoundariesUSCensus2000_utm83_shp20180426203213170" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon">
+            <customproperties>
+              <property key="legend/label-0" value="Data not available"/>
+              <property key="legend/label-1" value="0.0% - 1.2 %"/>
+              <property key="legend/label-2" value="1.2% - 2.0%"/>
+              <property key="legend/label-3" value="2.0% - 3.8%"/>
+              <property key="legend/title-label" value=""/>
+            </customproperties>
+          </layer-tree-layer>
+        </layer-tree-group>
+        <ComposerItem pagey="146.179" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="187.26" y="146.179" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77.8031" outlineWidth="0.3" excludeFromExports="0" uuid="{ab03ed07-3da3-469b-b165-27944be0bd92}" height="40.0063" itemRotation="0" frame="false" pagex="187.26">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLegend>
+      <ComposerLabel valign="128" marginX="1" marginY="1" labelText="2004" htmlState="0" halign="4">
+        <LabelFont description="Helvetica Neue,36,-1,5,75,0,0,0,0,0" style="Bold"/>
+        <FontColor red="0" blue="255" green="0"/>
+        <ComposerItem pagey="34.234" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="79.0804" y="34.234" visibility="1" zValue="2" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="65.7292" outlineWidth="0.3" excludeFromExports="0" uuid="{50fc94f8-7805-47a4-948f-9d97394bb987}" height="27.3872" itemRotation="0" frame="false" pagex="79.0804">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="4052042.09992137271910906" xmin="240356.56783237788476981" ymax="4577852.61072689853608608" xmax="893086.85710820311214775"/>
+        <LayerSet/>
+        <Grid/>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="3" page="1" id="" lastValidViewScaleFactor="2.92108" positionMode="0" positionLock="false" x="42" y="3" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="252" outlineWidth="0.3" excludeFromExports="0" uuid="{b40c316d-537f-46c6-b1e0-e4e25d8c7eba}" height="203" itemRotation="0" frame="false" pagex="42">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <customproperties>
+        <property key="imageCropMarginBottom" value="0"/>
+        <property key="imageCropMarginLeft" value="0"/>
+        <property key="imageCropMarginRight" value="0"/>
+        <property key="imageCropMarginTop" value="0"/>
+        <property key="imageCropToContents" value="false"/>
+      </customproperties>
+    </Composition>
+  </Composer>
   <projectlayers>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -66,7 +153,7 @@
         <xmax>782847.10148531699087471</xmax>
         <ymax>4498773.00293305423110723</ymax>
       </extent>
-      <id>countyBoundariesUSCensus2000_utm83_shp20180426191754845</id>
+      <id>countyBoundariesUSCensus2000_utm83_shp20180426203213170</id>
       <datasource>/vsizip/./shapes/countyBoundariesUSCensus2000_utm83_shp.zip</datasource>
       <keywordList>
         <value></value>
@@ -86,7 +173,7 @@
       </srs>
       <provider encoding="UTF-8">ogr</provider>
       <vectorjoins>
-        <join joinFieldName="county" targetFieldName="COUNTY" memoryCache="1" joinLayerId="drugOverdoseDeaths2016_5_220180426195138797"/>
+        <join joinFieldName="county" targetFieldName="COUNTY" memoryCache="1" joinLayerId="drugOverdoseDeaths2004_420180426205834404"/>
       </vectorjoins>
       <layerDependencies/>
       <expressionfields/>
@@ -226,20 +313,19 @@
         <edittype widgetv2type="TextEdit" name="RENTER_OCC">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
-        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths">
+        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2004_4_drugOverdoseDeaths">
           <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
-        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths">
+        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2004_4_percentageOfDeaths">
           <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 attr="drugOverdoseDeaths2016_5.2_percentageOfDeaths" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
+      <renderer-v2 attr="drugOverdoseDeaths2004_4_percentageOfDeaths" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
         <ranges>
-          <range render="true" symbol="0" lower="-999999.000000000000000" upper="-999999.000000000000000" label=" -999999.00 - -999999.00 "/>
-          <range render="true" symbol="1" lower="-999999.000000000000000" upper="2.702702703000000" label=" -999999.00 - 2.70 "/>
-          <range render="true" symbol="2" lower="2.702702703000000" upper="3.798670465000000" label=" 2.70 - 3.80 "/>
-          <range render="true" symbol="3" lower="3.798670465000000" upper="5.468750000000000" label=" 3.80 - 5.47 "/>
-          <range render="true" symbol="4" lower="5.468750000000000" upper="7.472178060000000" label=" 5.47 - 7.47 "/>
+          <range render="true" symbol="0" lower="-999999.000000000000000" upper="-999999.000000000000000" label=" -999999.0 - -999999.0 "/>
+          <range render="true" symbol="1" lower="-999999.000000000000000" upper="1.174564601000000" label=" -999999.0 - 1.2 "/>
+          <range render="true" symbol="2" lower="1.174564601000000" upper="2.031602709000000" label=" 1.2 - 2.0 "/>
+          <range render="true" symbol="3" lower="2.031602709000000" upper="3.806228374000000" label=" 2.0 - 3.8 "/>
         </ranges>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -250,7 +336,7 @@
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,135"/>
+              <prop k="outline_color" v="0,0,255,152"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -260,12 +346,12 @@
           <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="243,237,206,255"/>
+              <prop k="color" v="243,236,203,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,135"/>
+              <prop k="outline_color" v="0,0,255,152"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -275,12 +361,12 @@
           <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="231,218,157,255"/>
+              <prop k="color" v="230,216,150,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,135"/>
+              <prop k="outline_color" v="0,0,255,152"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -290,27 +376,12 @@
           <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="219,200,108,255"/>
+              <prop k="color" v="217,196,98,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,135"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="207,181,59,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,135"/>
+              <prop k="outline_color" v="0,0,255,152"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -322,12 +393,12 @@
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="207,181,59,255"/>
+              <prop k="color" v="59,165,140,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,135"/>
+              <prop k="outline_color" v="0,0,255,152"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0.26"/>
               <prop k="outline_width_unit" v="MM"/>
@@ -337,14 +408,14 @@
         </source-symbol>
         <colorramp type="gradient" name="[source]">
           <prop k="color1" v="255,255,255,255"/>
-          <prop k="color2" v="207,181,59,255"/>
+          <prop k="color2" v="217,196,98,255"/>
           <prop k="discrete" v="0"/>
         </colorramp>
         <invertedcolorramp value="0"/>
         <mode name="jenks"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
-        <labelformat format=" %1 - %2 " trimtrailingzeroes="false" decimalplaces="1"/>
+        <labelformat format=" %1 - %2 " trimtrailingzeroes="false" decimalplaces="2"/>
       </renderer-v2>
       <labeling type="simple"/>
       <customproperties>
@@ -492,7 +563,7 @@
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>1</layerTransparency>
+      <layerTransparency>0</layerTransparency>
       <displayfield>ID</displayfield>
       <label>0</label>
       <labelattributes>
@@ -589,8 +660,8 @@
         <alias field="VACANT" index="41" name=""/>
         <alias field="OWNER_OCC" index="42" name=""/>
         <alias field="RENTER_OCC" index="43" name=""/>
-        <alias field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" index="44" name=""/>
-        <alias field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" index="45" name=""/>
+        <alias field="drugOverdoseDeaths2004_4_drugOverdoseDeaths" index="44" name=""/>
+        <alias field="drugOverdoseDeaths2004_4_percentageOfDeaths" index="45" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -642,8 +713,8 @@
           <column width="-1" hidden="0" type="field" name="OWNER_OCC"/>
           <column width="-1" hidden="0" type="field" name="RENTER_OCC"/>
           <column width="-1" hidden="1" type="actions"/>
-          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths"/>
-          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths"/>
+          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2004_4_drugOverdoseDeaths"/>
+          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2004_4_percentageOfDeaths"/>
         </columns>
       </attributetableconfig>
       <editform></editform>
@@ -669,7 +740,29 @@ def my_form_open(dialog, layer, feature):
 ]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
+      <widgets>
+        <widget name="drugDeaths2004_2_Deaths">
+          <config/>
+        </widget>
+        <widget name="drugDeaths2004_2_Population">
+          <config/>
+        </widget>
+        <widget name="drugDeaths2004_2_Year">
+          <config/>
+        </widget>
+        <widget name="drugDeaths2004_3_Deaths">
+          <config/>
+        </widget>
+        <widget name="drugDeaths2004_3_Year">
+          <config/>
+        </widget>
+        <widget name="drugDeaths2004_3_percentageDrugDeaths">
+          <config/>
+        </widget>
+        <widget name="drugDeaths2004_3_totDeaths">
+          <config/>
+        </widget>
+      </widgets>
       <conditionalstyles>
         <rowstyles/>
         <fieldstyles/>
@@ -719,18 +812,18 @@ def my_form_open(dialog, layer, feature):
         <default field="VACANT" expression=""/>
         <default field="OWNER_OCC" expression=""/>
         <default field="RENTER_OCC" expression=""/>
-        <default field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" expression=""/>
-        <default field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" expression=""/>
+        <default field="drugOverdoseDeaths2004_4_drugOverdoseDeaths" expression=""/>
+        <default field="drugOverdoseDeaths2004_4_percentageOfDeaths" expression=""/>
       </defaults>
       <previewExpression>COALESCE( "ID", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" readOnly="0" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
-      <id>drugOverdoseDeaths2016_5_220180426195138797</id>
-      <datasource>file:./tables/drugOverdoseDeaths2016_5.2.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
+      <id>drugOverdoseDeaths2004_420180426205834404</id>
+      <datasource>file:./tables/drugDeathsByYear/drugOverdoseDeaths2004_4.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>drugOverdoseDeaths2016_5.2</layername>
+      <layername>drugOverdoseDeaths2004_4</layername>
       <srs>
         <spatialrefsys>
           <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -771,8 +864,13 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="14">
+        <columns>
+          <column width="-1" hidden="0" type="field" name="county"/>
+          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths"/>
+          <column width="-1" hidden="0" type="field" name="percentageOfDeaths"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
       </attributetableconfig>
       <editform></editform>
       <editforminit/>
@@ -791,7 +889,7 @@ def my_form_open(dialog, layer, feature):
         <default field="drugOverdoseDeaths" expression=""/>
         <default field="percentageOfDeaths" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE("county", '&lt;NULL>')||', '||COALESCE("drugOverdoseDeaths", '&lt;NULL>')||', '||COALESCE("percentageOfDeaths", '&lt;NULL>')</previewExpression>
     </maplayer>
   </projectlayers>
   <properties>
@@ -819,9 +917,25 @@ def my_form_open(dialog, layer, feature):
     </Gui>
     <Digitizing>
       <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <LayerSnappingList type="QStringList">
+        <value>countyBoundariesUSCensus2000_utm83_shp20180426203213170</value>
+      </LayerSnappingList>
+      <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
+      </LayerSnappingEnabledList>
       <SnappingMode type="QString">current_layer</SnappingMode>
+      <AvoidIntersectionsList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList">
+        <value>2</value>
+      </LayerSnappingToleranceUnitList>
+      <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
+      </LayerSnapToList>
       <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+      <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
+      </LayerSnappingToleranceList>
     </Digitizing>
     <PositionPrecision>
       <DecimalPlaces type="int">2</DecimalPlaces>
