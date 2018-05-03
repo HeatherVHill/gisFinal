@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "hospitalName": "Cabell Huntington Hospital", "Coordinates": 38.40925, "Coordinates 2": -82.426381, "city": "Huntington", "county": "Cabell", "state": "West Virginia", "joinedCityState": "Huntington, West Virginia" }, "geometry": { "type": "Point", "coordinates": [ -82.426381, 38.40925 ] } },
+{ "type": "Feature", "properties": { "hospitalName": "Saint Mary's Medical Center", "Coordinates": 38.431886, "Coordinates 2": -82.400795, "city": "Huntington", "county": "Cabell", "state": "West Virginia", "joinedCityState": "Huntington, West Virginia" }, "geometry": { "type": "Point", "coordinates": [ -82.400795, 38.431886 ] } },
+{ "type": "Feature", "properties": { "hospitalName": "Marshall Medical Center", "Coordinates": 38.409414, "Coordinates 2": -82.42735, "city": "Huntington", "county": "Cabell", "state": "West Virginia", "joinedCityState": "Huntington, West Virginia" }, "geometry": { "type": "Point", "coordinates": [ -82.42735, 38.409414 ] } },
+{ "type": "Feature", "properties": { "hospitalName": "Mildred Mitchell-Bateman Hospital", "Coordinates": 38.411535, "Coordinates 2": -82.413532, "city": "Huntington", "county": "Cabell", "state": "West Virginia", "joinedCityState": "Huntington, West Virginia" }, "geometry": { "type": "Point", "coordinates": [ -82.413532, 38.411535 ] } },
+{ "type": "Feature", "properties": { "hospitalName": "Cornerstone Hospital of Huntington", "Coordinates": 38.432677, "Coordinates 2": -82.400771, "city": "Huntington", "county": "Cabell", "state": "West Virginia", "joinedCityState": "Huntington, West Virginia" }, "geometry": { "type": "Point", "coordinates": [ -82.400771, 38.432677 ] } },
+{ "type": "Feature", "properties": { "hospitalName": "River Park Hospital", "Coordinates": 38.419546, "Coordinates 2": -82.436864, "city": "Huntington", "county": "Cabell", "state": "West Virginia", "joinedCityState": "Huntington, West Virginia" }, "geometry": { "type": "Point", "coordinates": [ -82.436864, 38.419546 ] } }
+]
+}

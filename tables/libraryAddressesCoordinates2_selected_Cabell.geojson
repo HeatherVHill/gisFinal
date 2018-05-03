@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Library": "Cox Landing Public Library", "address": "6365 Cox Lane Lesage, WV 25537-9708", "GMcoordinates 1": -82.3044368, "GMcoordinates 2": 38.4738961 }, "geometry": { "type": "Point", "coordinates": [ -82.3044368, 38.4738961 ] } },
+{ "type": "Feature", "properties": { "Library": "Milton Public Library", "address": "1140 Smith St. Milton, WV 25541-1398", "GMcoordinates 1": -82.1333243, "GMcoordinates 2": 38.4366096 }, "geometry": { "type": "Point", "coordinates": [ -82.1333243, 38.4366096 ] } },
+{ "type": "Feature", "properties": { "Library": "Barboursville Public Library", "address": "728 Main St. Barboursville, WV 25504-1407", "GMcoordinates 1": -82.294245, "GMcoordinates 2": 38.409084 }, "geometry": { "type": "Point", "coordinates": [ -82.294245, 38.409084 ] } },
+{ "type": "Feature", "properties": { "Library": "West Huntington Public Library", "address": "901 14th St. W. Huntington, WV 25704-2308", "GMcoordinates 1": -82.4778563, "GMcoordinates 2": 38.4080287 }, "geometry": { "type": "Point", "coordinates": [ -82.4778563, 38.4080287 ] } },
+{ "type": "Feature", "properties": { "Library": "Salt Rock Public Library", "address": "5575 Madison Creek Road Salt Rock, WV 25559-9801", "GMcoordinates 1": -82.2216963, "GMcoordinates 2": 38.3211767 }, "geometry": { "type": "Point", "coordinates": [ -82.2216963, 38.3211767 ] } },
+{ "type": "Feature", "properties": { "Library": "Cabell County Public Library", "address": "455 9th St. Huntington, WV 25701-1417", "GMcoordinates 1": -82.443962, "GMcoordinates 2": 38.4197847 }, "geometry": { "type": "Point", "coordinates": [ -82.443962, 38.4197847 ] } },
+{ "type": "Feature", "properties": { "Library": "Gallaher Village Public Library", "address": "368 Norway Ave. Huntington, WV 25705-1319", "GMcoordinates 1": -82.4053081, "GMcoordinates 2": 38.4070218 }, "geometry": { "type": "Point", "coordinates": [ -82.4053081, 38.4070218 ] } },
+{ "type": "Feature", "properties": { "Library": "Guyandotte Public Library", "address": "203 Richmond St. Huntington, WV 25702-1515", "GMcoordinates 1": -82.3877735, "GMcoordinates 2": 38.429425 }, "geometry": { "type": "Point", "coordinates": [ -82.3877735, 38.429425 ] } }
+]
+}

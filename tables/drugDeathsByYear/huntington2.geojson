@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26917" } },
+"features": [
+{ "type": "Feature", "properties": { "City": "Huntington", "x": -82.445371, "y": 38.420024 }, "geometry": { "type": "Point", "coordinates": [ 373824.406405961955898, 4253408.325974171049893 ] } }
+]
+}
