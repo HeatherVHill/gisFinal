@@ -47,13 +47,16 @@
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp_Cabell.geojson" name="countyBoundariesUSCensus2000_utm83_shp_Cabell OGRGeoJSON Polygon">
       <customproperties/>
     </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OpenLayers_plugin_layer20180504195917501" source="" name="Google Streets">
+      <customproperties/>
+    </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Checked" id="GPWv4__UN_Adjusted_Population_Count___201520180504191446282" source="contextualWMSLegend=0&amp;crs=EPSG:4326&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=gpw-v4:gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals_2015&amp;styles=&amp;url=http://sedac.ciesin.columbia.edu/geoserver/wms/" name="GPWv4: UN-Adjusted Population Count - 2015">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="countyBoundariesUSCensus2000_utm83_shp20180502163100588" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="gpw_v4_population_density_rev10_2015_30_sec20180504114933792" source="/Users/heatherhill/Downloads/gpw-v4-population-density-rev10_2015_30_sec_tif/gpw_v4_population_density_rev10_2015_30_sec.tif" name="gpw_v4_population_density_rev10_2015_30_sec">
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="gpw_v4_population_density_rev10_2015_30_sec20180504114933792" source="/Users/heatherhill/Downloads/gpw-v4-population-density-rev10_2015_30_sec_tif/gpw_v4_population_density_rev10_2015_30_sec.tif" name="gpw_v4_population_density_rev10_2015_30_sec">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenLayers_plugin_layer20180504113458392" source="" name="Google Physical">
@@ -70,10 +73,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-9186440.77912084572017193</xmin>
-      <ymin>4609964.97987212147563696</ymin>
-      <xmax>-9131915.56118091009557247</xmax>
-      <ymax>4665980.06331256870180368</ymax>
+      <xmin>-9183362.20214891619980335</xmin>
+      <ymin>4608988.84571029059588909</ymin>
+      <xmax>-9128836.9842089805752039</xmax>
+      <ymax>4665003.92915073782205582</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -98,7 +101,9 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="GPWv4__UN_Adjusted_Population_Count___201520180504191446282"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gpw_v4_population_density_rev10_2015_30_sec20180504114744818"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gpw_v4_population_density_rev10_2015_30_sec20180504114933792"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180502163113899"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="schoolCoordinatesComplete4_Cabell20180503115115123"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20180504195917501"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20180504113458392"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp20180502163100588"/>
     </layer_coordinate_transform_info>
@@ -125,6 +130,7 @@
       <item>OpenLayers_plugin_layer20180504113458392</item>
       <item>gpw_v4_population_density_rev10_2015_30_sec20180504114933792</item>
       <item>GPWv4__UN_Adjusted_Population_Count___201520180504191446282</item>
+      <item>OpenLayers_plugin_layer20180504195917501</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
@@ -198,6 +204,11 @@
         <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033" visible="1"/>
       </filegroup>
     </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Google Streets" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20180504195917501" visible="0"/>
+      </filegroup>
+    </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="GPWv4: UN-Adjusted Population Count - 2015" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="GPWv4__UN_Adjusted_Population_Count___201520180504191446282" visible="1"/>
@@ -208,8 +219,8 @@
         <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp20180502163100588" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="gpw_v4_population_density_rev10_2015_30_sec" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="gpw_v4_population_density_rev10_2015_30_sec" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="gpw_v4_population_density_rev10_2015_30_sec20180504114933792" visible="0"/>
       </filegroup>
     </legendlayer>
@@ -762,6 +773,37 @@
       </customproperties>
     </Composition>
   </Composer>
+  <Composer title="Huntington_2" visible="1">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{f62fe0e9-e5d4-45c8-b1b6-067939027a38}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+      <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+        <layer pass="0" class="SimpleFill" locked="0">
+          <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="color" v="255,255,255,255"/>
+          <prop k="joinstyle" v="miter"/>
+          <prop k="offset" v="0,0"/>
+          <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="outline_color" v="0,0,0,255"/>
+          <prop k="outline_style" v="no"/>
+          <prop k="outline_width" v="0.26"/>
+          <prop k="outline_width_unit" v="MM"/>
+          <prop k="style" v="solid"/>
+        </layer>
+      </symbol>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="4602540.72301365528255701" xmin="-9202000.64239295572042465" ymax="4676712.6575101800262928" xmax="-9110685.19473449885845184"/>
+        <LayerSet/>
+        <Grid/>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="-1" page="1" id="" lastValidViewScaleFactor="2.87572" positionMode="0" positionLock="false" x="0" y="-1" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="261" outlineWidth="0.3" excludeFromExports="0" uuid="{f62fe0e9-e5d4-45c8-b1b6-067939027a38}" height="212" itemRotation="0" frame="false" pagex="0">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <customproperties/>
+    </Composition>
+  </Composer>
   <projectlayers>
     <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
       <extent>
@@ -789,7 +831,8 @@
         </spatialrefsys>
       </srs>
       <customproperties>
-        <property key="embeddedWidgets/count" value="0"/>
+        <property key="embeddedWidgets/0/id" value="transparency"/>
+        <property key="embeddedWidgets/count" value="1"/>
         <property key="identify/format" value="Html"/>
       </customproperties>
       <provider>wms</provider>
@@ -800,7 +843,7 @@
         <map-layer-style name=""/>
       </map-layer-style-manager>
       <pipe>
-        <rasterrenderer opacity="0.494118" alphaBand="0" band="1" type="singlebandcolordata">
+        <rasterrenderer opacity="0.796078" alphaBand="0" band="1" type="singlebandcolordata">
           <rasterTransparency/>
         </rasterrenderer>
         <brightnesscontrast brightness="0" contrast="0"/>
@@ -836,6 +879,35 @@
       </srs>
       <customproperties>
         <property key="ol_layer_type" value="Google Physical"/>
+      </customproperties>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="plugin" hasScaleBasedVisibilityFlag="0" name="openlayers">
+      <extent>
+        <xmin>-20037508.33999999985098839</xmin>
+        <ymin>-20037508.33999999985098839</ymin>
+        <xmax>20037508.33999999985098839</xmax>
+        <ymax>20037508.33999999985098839</ymax>
+      </extent>
+      <id>OpenLayers_plugin_layer20180504195917501</id>
+      <datasource></datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Google Streets</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs</proj4>
+          <srsid>3857</srsid>
+          <srid>3857</srid>
+          <authid>EPSG:3857</authid>
+          <description>WGS 84 / Pseudo Mercator</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="ol_layer_type" value="Google Streets"/>
       </customproperties>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
@@ -2358,9 +2430,9 @@ def my_form_open(dialog, layer, feature):
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_color" v="207,181,59,255"/>
               <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width" v="0.46"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="solid"/>
             </layer>
@@ -2796,6 +2868,12 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>355916.6898819503840059</xmin>
+        <ymin>4117439.29021941917017102</ymin>
+        <xmax>782847.10148531699087471</xmax>
+        <ymax>4498773.00293305423110723</ymax>
+      </extent>
       <id>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180502163113899</id>
       <datasource>/vsizip/./shapes/countyBoundariesUSCensus2000_utm83_shp.zip</datasource>
       <keywordList>
