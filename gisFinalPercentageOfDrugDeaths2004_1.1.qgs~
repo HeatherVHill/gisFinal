@@ -14,7 +14,7 @@
     <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="drugDeaths2012_620180502165544405" source="file:///Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/drugDeathsByYear/drugDeaths2012_6.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="drugDeaths2012_6">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="huntington220180503120533602" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/drugDeathsByYear/huntington2.geojson" name="huntington2 OGRGeoJSON Point">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="huntington220180503120533602" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/drugDeathsByYear/huntington2.geojson" name="huntington2 OGRGeoJSON Point">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180502163113899" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2008">
@@ -26,40 +26,43 @@
     <layer-tree-layer expanded="1" providerKey="delimitedtext" checked="Qt::Checked" id="drugOverdoseDeaths2016_5_220180503005058575" source="file:///Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/drugDeathsByYear/drugOverdoseDeaths2016_5.2.csv?type=csv&amp;geomType=none&amp;subsetIndex=no&amp;watchFile=no" name="drugOverdoseDeaths2016_5.2">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="libraryAddressesCoordinates2_selected_Cabell20180503115439159" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/libraryAddressesCoordinates2_selected_Cabell.geojson" name="libraryAddressesCoordinates2_selected_Cabell OGRGeoJSON Point">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="libraryAddressesCoordinates2_selected_Cabell20180503115439159" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/libraryAddressesCoordinates2_selected_Cabell.geojson" name="libraryAddressesCoordinates2_selected_Cabell OGRGeoJSON Point">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="libraryAddressesCoordinates2_selected20180503012724366" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/libraryAddressesCoordinates2_selected.geojson" name="libraryAddressesCoordinates2_selected OGRGeoJSON Point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="hospitalsRoundCoordinates6_2_selected_Cabell20180503115234050" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/hospitalsRoundCoordinates6.2_selected_Cabell.geojson" name="hospitalsRoundCoordinates6.2_selected_Cabell OGRGeoJSON Point">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="hospitalsRoundCoordinates6_2_selected_Cabell20180503115234050" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/hospitalsRoundCoordinates6.2_selected_Cabell.geojson" name="hospitalsRoundCoordinates6.2_selected_Cabell OGRGeoJSON Point">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="hospitalsRoundCoordinates6_2_selected20180503013256469" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/hospitalsRoundCoordinates6.2_selected.geojson" name="hospitalsRoundCoordinates6.2_selected OGRGeoJSON Point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="schoolCoordinatesComplete4_Cabell20180503115115123" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/schoolCoordinatesComplete4_Cabell.geojson" name="schoolCoordinatesComplete4_Cabell OGRGeoJSON Point">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="schoolCoordinatesComplete4_Cabell20180503115115123" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/schoolCoordinatesComplete4_Cabell.geojson" name="schoolCoordinatesComplete4_Cabell OGRGeoJSON Point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="schoolCoordinatesComplete420180503011217878" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/schoolCoordinatesComplete4.geojson" name="schoolCoordinatesComplete4 OGRGeoJSON Point">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="schoolCoordinatesComplete420180503011217878" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/tables/schoolCoordinatesComplete4.geojson" name="schoolCoordinatesComplete4 OGRGeoJSON Point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp_Cabell.geojson" name="countyBoundariesUSCensus2000_utm83_shp_Cabell OGRGeoJSON Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp_Cabell.geojson" name="countyBoundariesUSCensus2000_utm83_shp_Cabell OGRGeoJSON Polygon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OpenLayers_plugin_layer20180504195917501" source="" name="Google Streets">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OpenLayers_plugin_layer20180504195917501" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal" name="Google Streets">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180505163302432" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2016">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_2016_copy20180505163752720" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2016 copy">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Checked" id="GPWv4__UN_Adjusted_Population_Count___201520180504191446282" source="contextualWMSLegend=0&amp;crs=EPSG:4326&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=gpw-v4:gpw-v4-population-count-adjusted-to-2015-unwpp-country-totals_2015&amp;styles=&amp;url=http://sedac.ciesin.columbia.edu/geoserver/wms/" name="GPWv4: UN-Adjusted Population Count - 2015">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="countyBoundariesUSCensus2000_utm83_shp20180502163100588" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon">
-      <customproperties/>
-    </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="gpw_v4_population_density_rev10_2015_30_sec20180504114933792" source="/Users/heatherhill/Downloads/gpw-v4-population-density-rev10_2015_30_sec_tif/gpw_v4_population_density_rev10_2015_30_sec.tif" name="gpw_v4_population_density_rev10_2015_30_sec">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenLayers_plugin_layer20180504113458392" source="" name="Google Physical">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OpenLayers_plugin_layer20180504113458392" source="/Users/heatherhill/Documents/GIS/finalProject/gisFinal" name="Google Physical">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180503005025659" source="/vsizip//Users/heatherhill/Documents/GIS/finalProject/gisFinal/shapes/countyBoundariesUSCensus2000_utm83_shp.zip" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon copy">
@@ -73,10 +76,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>-9183362.20214891619980335</xmin>
-      <ymin>4608988.84571029059588909</ymin>
-      <xmax>-9128836.9842089805752039</xmax>
-      <ymax>4665003.92915073782205582</ymax>
+      <xmin>-9220566.04836548492312431</xmin>
+      <ymin>4449068.69061587192118168</ymin>
+      <xmax>-8630771.52527544647455215</xmax>
+      <ymax>4971802.71838749013841152</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -97,11 +100,14 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="libraryAddressesCoordinates2_selected_Cabell20180503115439159"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="hospitalsRoundCoordinates6_2_selected_Cabell20180503115234050"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180505163302432"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="huntington220180503120533602"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="GPWv4__UN_Adjusted_Population_Count___201520180504191446282"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_2016_copy20180505163752720"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gpw_v4_population_density_rev10_2015_30_sec20180504114744818"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gpw_v4_population_density_rev10_2015_30_sec20180504114933792"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:26917" srcDatumTransform="-1" destDatumTransform="-1" layerid="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180502163113899"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="schoolCoordinatesComplete420180503011217878"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="schoolCoordinatesComplete4_Cabell20180503115115123"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20180504195917501"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OpenLayers_plugin_layer20180504113458392"/>
@@ -112,7 +118,6 @@
     <custom-order enabled="0">
       <item>countyBoundariesUSCensus2000_utm83_shp20180426203213170</item>
       <item>drugOverdoseDeaths2004_420180426205834404</item>
-      <item>countyBoundariesUSCensus2000_utm83_shp20180502163100588</item>
       <item>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180502163113899</item>
       <item>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy_copy20180502163116812</item>
       <item>drugDeaths2008_620180502164704773</item>
@@ -131,6 +136,8 @@
       <item>gpw_v4_population_density_rev10_2015_30_sec20180504114933792</item>
       <item>GPWv4__UN_Adjusted_Population_Count___201520180504191446282</item>
       <item>OpenLayers_plugin_layer20180504195917501</item>
+      <item>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180505163302432</item>
+      <item>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_2016_copy20180505163752720</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
@@ -149,9 +156,9 @@
         <legendlayerfile isInOverview="0" layerid="drugDeaths2012_620180502165544405" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="huntington2 OGRGeoJSON Point" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="huntington2 OGRGeoJSON Point" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="huntington220180503120533602" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="huntington220180503120533602" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2008" showFeatureCount="0">
@@ -169,9 +176,9 @@
         <legendlayerfile isInOverview="0" layerid="drugOverdoseDeaths2016_5_220180503005058575" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="libraryAddressesCoordinates2_selected_Cabell OGRGeoJSON Point" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="libraryAddressesCoordinates2_selected_Cabell OGRGeoJSON Point" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="libraryAddressesCoordinates2_selected_Cabell20180503115439159" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="libraryAddressesCoordinates2_selected_Cabell20180503115439159" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="libraryAddressesCoordinates2_selected OGRGeoJSON Point" showFeatureCount="0">
@@ -179,9 +186,9 @@
         <legendlayerfile isInOverview="0" layerid="libraryAddressesCoordinates2_selected20180503012724366" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="hospitalsRoundCoordinates6.2_selected_Cabell OGRGeoJSON Point" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="hospitalsRoundCoordinates6.2_selected_Cabell OGRGeoJSON Point" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="hospitalsRoundCoordinates6_2_selected_Cabell20180503115234050" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="hospitalsRoundCoordinates6_2_selected_Cabell20180503115234050" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="hospitalsRoundCoordinates6.2_selected OGRGeoJSON Point" showFeatureCount="0">
@@ -189,19 +196,19 @@
         <legendlayerfile isInOverview="0" layerid="hospitalsRoundCoordinates6_2_selected20180503013256469" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="schoolCoordinatesComplete4_Cabell OGRGeoJSON Point" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="schoolCoordinatesComplete4_Cabell OGRGeoJSON Point" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="schoolCoordinatesComplete4_Cabell20180503115115123" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="schoolCoordinatesComplete4_Cabell20180503115115123" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="schoolCoordinatesComplete4 OGRGeoJSON Point" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="schoolCoordinatesComplete4 OGRGeoJSON Point" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="schoolCoordinatesComplete420180503011217878" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="schoolCoordinatesComplete420180503011217878" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="countyBoundariesUSCensus2000_utm83_shp_Cabell OGRGeoJSON Polygon" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="countyBoundariesUSCensus2000_utm83_shp_Cabell OGRGeoJSON Polygon" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Google Streets" showFeatureCount="0">
@@ -209,14 +216,19 @@
         <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20180504195917501" visible="0"/>
       </filegroup>
     </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2016" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180505163302432" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2016 copy" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_2016_copy20180505163752720" visible="1"/>
+      </filegroup>
+    </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="GPWv4: UN-Adjusted Population Count - 2015" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="GPWv4__UN_Adjusted_Population_Count___201520180504191446282" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="countyBoundariesUSCensus2000_utm83_shp20180502163100588" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="gpw_v4_population_density_rev10_2015_30_sec" showFeatureCount="0">
@@ -224,9 +236,9 @@
         <legendlayerfile isInOverview="0" layerid="gpw_v4_population_density_rev10_2015_30_sec20180504114933792" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Google Physical" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Google Physical" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20180504113458392" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="OpenLayers_plugin_layer20180504113458392" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon copy" showFeatureCount="0">
@@ -573,13 +585,13 @@
           <customproperties/>
         </ComposerItem>
       </ComposerLegend>
-      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="2" segmentMillimeters="21.2353" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="5000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="3" boxContentSpace="1" mapId="0" unitLabel="km">
+      <ComposerScaleBar lineCapStyle="square" style="Single Box" numMapUnitsPerScaleBarUnit="1000" segmentSizeMode="0" alignment="0" numSegments="2" segmentMillimeters="26.0514" lineJoinStyle="miter" minBarWidth="50" numUnitsPerSegment="5000" units="1" labelBarSpace="3" outlineWidth="0.3" numSegmentsLeft="0" maxBarWidth="150" height="3" boxContentSpace="1" mapId="0" unitLabel="km">
         <scaleBarFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
         <fillColor alpha="255" red="72" blue="72" green="72"/>
         <fillColor2 alpha="255" red="255" blue="255" green="255"/>
         <strokeColor alpha="255" red="0" blue="0" green="0"/>
         <textColor alpha="255" red="0" blue="0" green="0"/>
-        <ComposerItem pagey="163.99" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="30.4903" y="163.99" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="55.3362" outlineWidth="0.3" excludeFromExports="0" uuid="{b0f1d9b3-50a9-47b1-b145-ce2c683d0931}" height="20" itemRotation="0" frame="false" pagex="30.4903">
+        <ComposerItem pagey="163.99" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="30.4903" y="163.99" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="64.9685" outlineWidth="0.3" excludeFromExports="0" uuid="{b0f1d9b3-50a9-47b1-b145-ce2c683d0931}" height="20" itemRotation="0" frame="false" pagex="30.4903">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -757,6 +769,54 @@
         <Extent ymin="4611504.26836235076189041" xmin="-9198566.10916669480502605" ymax="4675516.09379119146615267" xmax="-9107250.66151702217757702"/>
         <LayerSet/>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{7ab1a762-d187-471c-b81b-e24f160d9a5e}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
         <ComposerItem pagey="-1" page="1" id="" lastValidViewScaleFactor="2.92108" positionMode="0" positionLock="false" x="-4" y="-1" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="301" outlineWidth="0.3" excludeFromExports="0" uuid="{0957a63d-8f12-40cc-ba3b-b8193d8db0e0}" height="211" itemRotation="0" frame="false" pagex="-4">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
@@ -773,7 +833,7 @@
       </customproperties>
     </Composition>
   </Composer>
-  <Composer title="Huntington_2" visible="1">
+  <Composer title="Huntington_2" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{f62fe0e9-e5d4-45c8-b1b6-067939027a38}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -794,14 +854,141 @@
         <Extent ymin="4602540.72301365528255701" xmin="-9202000.64239295572042465" ymax="4676712.6575101800262928" xmax="-9110685.19473449885845184"/>
         <LayerSet/>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{ca280bc8-6d3e-4bd0-a6eb-901b56883a0b}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="-1" page="1" id="" lastValidViewScaleFactor="2.87572" positionMode="0" positionLock="false" x="0" y="-1" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="261" outlineWidth="0.3" excludeFromExports="0" uuid="{f62fe0e9-e5d4-45c8-b1b6-067939027a38}" height="212" itemRotation="0" frame="false" pagex="0">
+        <ComposerItem pagey="-1" page="1" id="" lastValidViewScaleFactor="2.87572" positionMode="0" positionLock="false" x="18" y="-1" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="261" outlineWidth="0.3" excludeFromExports="0" uuid="{f62fe0e9-e5d4-45c8-b1b6-067939027a38}" height="212" itemRotation="0" frame="false" pagex="18">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
       <customproperties/>
+    </Composition>
+  </Composer>
+  <Composer title="Huntington_3" visible="1">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{edb99609-4a55-4622-8ddc-37a2cdcde5cf}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+      <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+        <layer pass="0" class="SimpleFill" locked="0">
+          <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="color" v="255,255,255,255"/>
+          <prop k="joinstyle" v="miter"/>
+          <prop k="offset" v="0,0"/>
+          <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="outline_color" v="0,0,0,255"/>
+          <prop k="outline_style" v="no"/>
+          <prop k="outline_width" v="0.26"/>
+          <prop k="outline_width_unit" v="MM"/>
+          <prop k="style" v="solid"/>
+        </layer>
+      </symbol>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="2016" htmlState="0" halign="4">
+        <LabelFont description="Helvetica Neue,36,-1,5,75,0,0,0,0,0" style="Bold"/>
+        <FontColor red="0" blue="255" green="0"/>
+        <ComposerItem pagey="50.3239" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="71.2066" y="50.3239" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="47.9275" outlineWidth="0.3" excludeFromExports="0" uuid="{ddda4194-fcae-43e4-9e7e-d8ec9830a821}" height="17.117" itemRotation="0" frame="false" pagex="71.2066">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLegend symbolWidth="7" title="% of deaths by drug overdose" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#0000ff" legendFilterByAtlas="0" columnCount="1" wmsLegendHeight="25" columnSpace="2" symbolHeight="4" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="2" rasterBorder="1">
+        <styles>
+          <style marginBottom="2" name="title">
+            <styleFont description="Helvetica Neue,16,-1,5,50,0,0,0,0,0" style="Light"/>
+          </style>
+          <style marginTop="2" name="group">
+            <styleFont description=".SF NS Text,14,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="subgroup">
+            <styleFont description=".SF NS Text,12,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="symbol">
+            <styleFont description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" marginLeft="2" name="symbolLabel">
+            <styleFont description="Helvetica Neue,11,-1,5,50,0,0,0,0,0" style="Light"/>
+          </style>
+        </styles>
+        <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+          <customproperties/>
+          <layer-tree-layer expanded="1" checked="Qt::Checked" id="countyBoundariesUSCensus2000_utm83_shp20180502163100588" name="countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon">
+            <customproperties>
+              <property key="legend/label-0" value="Data not available"/>
+              <property key="legend/title-label" value=""/>
+            </customproperties>
+          </layer-tree-layer>
+        </layer-tree-group>
+        <ComposerItem pagey="144.125" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="168.773" y="144.125" visibility="0" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="77.8031" outlineWidth="0.3" excludeFromExports="0" uuid="{d6ac5f57-8b36-4d9a-8f4d-6c8e3f301353}" height="14.0062" itemRotation="0" frame="false" pagex="168.773">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLegend>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="4413413.12901904340833426" xmin="-9359311.00098352506756783" ymax="5044641.14860167820006609" xmax="-8507153.17454696819186211"/>
+        <LayerSet/>
+        <Grid/>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="5" page="1" id="" lastValidViewScaleFactor="2.92108" positionMode="0" positionLock="false" x="13.5" y="5" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="270" outlineWidth="0.3" excludeFromExports="0" uuid="{edb99609-4a55-4622-8ddc-37a2cdcde5cf}" height="200" itemRotation="0" frame="false" pagex="13.5">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <customproperties>
+        <property key="imageCropMarginBottom" value="0"/>
+        <property key="imageCropMarginLeft" value="0"/>
+        <property key="imageCropMarginRight" value="0"/>
+        <property key="imageCropMarginTop" value="0"/>
+        <property key="imageCropToContents" value="false"/>
+      </customproperties>
     </Composition>
   </Composer>
   <projectlayers>
@@ -843,7 +1030,7 @@
         <map-layer-style name=""/>
       </map-layer-style-manager>
       <pipe>
-        <rasterrenderer opacity="0.796078" alphaBand="0" band="1" type="singlebandcolordata">
+        <rasterrenderer opacity="1" alphaBand="0" band="1" type="singlebandcolordata">
           <rasterTransparency/>
         </rasterrenderer>
         <brightnesscontrast brightness="0" contrast="0"/>
@@ -860,7 +1047,7 @@
         <ymax>20037508.33999999985098839</ymax>
       </extent>
       <id>OpenLayers_plugin_layer20180504113458392</id>
-      <datasource></datasource>
+      <datasource>.</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -889,7 +1076,7 @@
         <ymax>20037508.33999999985098839</ymax>
       </extent>
       <id>OpenLayers_plugin_layer20180504195917501</id>
-      <datasource></datasource>
+      <datasource>.</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1584,672 +1771,6 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
-        <xmin>355916.6898819503840059</xmin>
-        <ymin>4117439.29021941917017102</ymin>
-        <xmax>782847.10148531699087471</xmax>
-        <ymax>4498773.00293305423110723</ymax>
-      </extent>
-      <id>countyBoundariesUSCensus2000_utm83_shp20180502163100588</id>
-      <datasource>/vsizip/./shapes/countyBoundariesUSCensus2000_utm83_shp.zip</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=17 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>2294</srsid>
-          <srid>26917</srid>
-          <authid>EPSG:26917</authid>
-          <description>NAD83 / UTM zone 17N</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="UTF-8">ogr</provider>
-      <vectorjoins>
-        <join joinFieldName="county" targetFieldName="COUNTY" memoryCache="1" joinLayerId="drugOverdoseDeaths2016_5_220180503005058575"/>
-      </vectorjoins>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="ID">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="FIPSSTCO">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="STATE">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="COUNTY">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="STATE_1">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="COUNTY_1">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="POP2000">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="WHITE">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="BLACK">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AMERI_ES">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="ASIAN">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="HAWN_PI">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="OTHER">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MULT_RACE">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="HISPANIC">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MALES">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="FEMALES">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_UNDER5">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_5_17">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_18_21">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_22_29">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_30_39">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_40_49">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_50_64">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AGE_65_UP">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MED_AGE">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MED_AGE_M">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MED_AGE_F">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="HOUSEHOLDS">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AVE_HH_SZ">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="HSEHLD_1_M">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="HSEHLD_1_F">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MARHH_CHD">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MARHH_NO_C">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="MHH_CHILD">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="FHH_CHILD">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="FAMILIES">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="AVE_FAM_SZ">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="HSE_UNITS">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="URBAN">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="RURAL">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="VACANT">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="OWNER_OCC">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="RENTER_OCC">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths">
-          <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths">
-          <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 attr="drugOverdoseDeaths2016_5.2_percentageOfDeaths" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
-        <ranges>
-          <range render="true" symbol="0" lower="-999999.000000000000000" upper="0.000000000000000" label=" -999999.0 - 0.0 "/>
-          <range render="true" symbol="1" lower="0.000000000000000" upper="2.703000000000000" label=" 0.0 - 2.7 "/>
-          <range render="true" symbol="2" lower="2.703000000000000" upper="3.798670465000000" label=" 2.7 - 3.8 "/>
-          <range render="true" symbol="3" lower="3.798670465000000" upper="5.468750000000000" label=" 3.8 - 5.5 "/>
-          <range render="true" symbol="4" lower="5.468750000000000" upper="7.472178060000000" label=" 5.5 - 7.5 "/>
-        </ranges>
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="255,255,255,127"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,153"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="243,237,206,159"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,153"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="231,218,157,191"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,153"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="219,200,108,223"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,153"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="207,181,59,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,153"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <source-symbol>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="142,107,212,255"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,255,153"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-        </source-symbol>
-        <colorramp type="gradient" name="[source]">
-          <prop k="color1" v="255,255,255,127"/>
-          <prop k="color2" v="207,181,59,255"/>
-          <prop k="discrete" v="0"/>
-        </colorramp>
-        <invertedcolorramp value="0"/>
-        <mode name="jenks"/>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
-        <labelformat format=" %1 - %2 " trimtrailingzeroes="false" decimalplaces="1"/>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="labeling" value="pal"/>
-        <property key="labeling/addDirectionSymbol" value="false"/>
-        <property key="labeling/angleOffset" value="0"/>
-        <property key="labeling/blendMode" value="0"/>
-        <property key="labeling/bufferBlendMode" value="0"/>
-        <property key="labeling/bufferColorA" value="255"/>
-        <property key="labeling/bufferColorB" value="255"/>
-        <property key="labeling/bufferColorG" value="255"/>
-        <property key="labeling/bufferColorR" value="255"/>
-        <property key="labeling/bufferDraw" value="false"/>
-        <property key="labeling/bufferJoinStyle" value="128"/>
-        <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="1"/>
-        <property key="labeling/bufferSizeInMapUnits" value="false"/>
-        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/bufferTransp" value="0"/>
-        <property key="labeling/centroidInside" value="false"/>
-        <property key="labeling/centroidWhole" value="false"/>
-        <property key="labeling/decimals" value="3"/>
-        <property key="labeling/displayAll" value="false"/>
-        <property key="labeling/dist" value="0"/>
-        <property key="labeling/distInMapUnits" value="false"/>
-        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/drawLabels" value="false"/>
-        <property key="labeling/enabled" value="false"/>
-        <property key="labeling/fieldName" value=""/>
-        <property key="labeling/fitInPolygonOnly" value="false"/>
-        <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value=".SF NS Text"/>
-        <property key="labeling/fontItalic" value="false"/>
-        <property key="labeling/fontLetterSpacing" value="0"/>
-        <property key="labeling/fontLimitPixelSize" value="false"/>
-        <property key="labeling/fontMaxPixelSize" value="10000"/>
-        <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="13"/>
-        <property key="labeling/fontSizeInMapUnits" value="false"/>
-        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/fontStrikeout" value="false"/>
-        <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="50"/>
-        <property key="labeling/fontWordSpacing" value="0"/>
-        <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="true"/>
-        <property key="labeling/labelOffsetInMapUnits" value="true"/>
-        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/labelPerPart" value="false"/>
-        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
-        <property key="labeling/limitNumLabels" value="false"/>
-        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
-        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
-        <property key="labeling/maxNumLabels" value="2000"/>
-        <property key="labeling/mergeLines" value="false"/>
-        <property key="labeling/minFeatureSize" value="0"/>
-        <property key="labeling/multilineAlign" value="4294967295"/>
-        <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value=""/>
-        <property key="labeling/obstacle" value="true"/>
-        <property key="labeling/obstacleFactor" value="1"/>
-        <property key="labeling/obstacleType" value="0"/>
-        <property key="labeling/offsetType" value="0"/>
-        <property key="labeling/placeDirectionSymbol" value="0"/>
-        <property key="labeling/placement" value="1"/>
-        <property key="labeling/placementFlags" value="10"/>
-        <property key="labeling/plussign" value="false"/>
-        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
-        <property key="labeling/preserveRotation" value="true"/>
-        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
-        <property key="labeling/priority" value="5"/>
-        <property key="labeling/quadOffset" value="4"/>
-        <property key="labeling/repeatDistance" value="0"/>
-        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/repeatDistanceUnit" value="1"/>
-        <property key="labeling/reverseDirectionSymbol" value="false"/>
-        <property key="labeling/rightDirectionSymbol" value=">"/>
-        <property key="labeling/scaleMax" value="10000000"/>
-        <property key="labeling/scaleMin" value="1"/>
-        <property key="labeling/scaleVisibility" value="false"/>
-        <property key="labeling/shadowBlendMode" value="6"/>
-        <property key="labeling/shadowColorB" value="0"/>
-        <property key="labeling/shadowColorG" value="0"/>
-        <property key="labeling/shadowColorR" value="0"/>
-        <property key="labeling/shadowDraw" value="false"/>
-        <property key="labeling/shadowOffsetAngle" value="135"/>
-        <property key="labeling/shadowOffsetDist" value="1"/>
-        <property key="labeling/shadowOffsetGlobal" value="true"/>
-        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowOffsetUnits" value="1"/>
-        <property key="labeling/shadowRadius" value="1.5"/>
-        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
-        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowRadiusUnits" value="1"/>
-        <property key="labeling/shadowScale" value="100"/>
-        <property key="labeling/shadowTransparency" value="30"/>
-        <property key="labeling/shadowUnder" value="0"/>
-        <property key="labeling/shapeBlendMode" value="0"/>
-        <property key="labeling/shapeBorderColorA" value="255"/>
-        <property key="labeling/shapeBorderColorB" value="128"/>
-        <property key="labeling/shapeBorderColorG" value="128"/>
-        <property key="labeling/shapeBorderColorR" value="128"/>
-        <property key="labeling/shapeBorderWidth" value="0"/>
-        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeBorderWidthUnits" value="1"/>
-        <property key="labeling/shapeDraw" value="false"/>
-        <property key="labeling/shapeFillColorA" value="255"/>
-        <property key="labeling/shapeFillColorB" value="255"/>
-        <property key="labeling/shapeFillColorG" value="255"/>
-        <property key="labeling/shapeFillColorR" value="255"/>
-        <property key="labeling/shapeJoinStyle" value="64"/>
-        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeOffsetUnits" value="1"/>
-        <property key="labeling/shapeOffsetX" value="0"/>
-        <property key="labeling/shapeOffsetY" value="0"/>
-        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeRadiiUnits" value="1"/>
-        <property key="labeling/shapeRadiiX" value="0"/>
-        <property key="labeling/shapeRadiiY" value="0"/>
-        <property key="labeling/shapeRotation" value="0"/>
-        <property key="labeling/shapeRotationType" value="0"/>
-        <property key="labeling/shapeSVGFile" value=""/>
-        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeSizeType" value="0"/>
-        <property key="labeling/shapeSizeUnits" value="1"/>
-        <property key="labeling/shapeSizeX" value="0"/>
-        <property key="labeling/shapeSizeY" value="0"/>
-        <property key="labeling/shapeTransparency" value="0"/>
-        <property key="labeling/shapeType" value="0"/>
-        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
-        <property key="labeling/textColorA" value="255"/>
-        <property key="labeling/textColorB" value="0"/>
-        <property key="labeling/textColorG" value="0"/>
-        <property key="labeling/textColorR" value="0"/>
-        <property key="labeling/textTransp" value="0"/>
-        <property key="labeling/upsidedownLabels" value="0"/>
-        <property key="labeling/useSubstitutions" value="false"/>
-        <property key="labeling/wrapChar" value=""/>
-        <property key="labeling/xOffset" value="0"/>
-        <property key="labeling/yOffset" value="0"/>
-        <property key="labeling/zIndex" value="0"/>
-        <property key="variableNames"/>
-        <property key="variableValues"/>
-      </customproperties>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>ID</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Label"/>
-        <family fieldname="" name=".SF NS Text"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
-          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
-        </DiagramCategory>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
-          <layer pass="0" class="SimpleMarker" locked="0">
-            <prop k="angle" v="0"/>
-            <prop k="color" v="255,0,0,255"/>
-            <prop k="horizontal_anchor_point" v="1"/>
-            <prop k="joinstyle" v="bevel"/>
-            <prop k="name" v="circle"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,255"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0"/>
-            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="scale_method" v="diameter"/>
-            <prop k="size" v="2"/>
-            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="size_unit" v="MM"/>
-            <prop k="vertical_anchor_point" v="1"/>
-          </layer>
-        </symbol>
-      </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
-      <aliases>
-        <alias field="ID" index="0" name=""/>
-        <alias field="FIPSSTCO" index="1" name=""/>
-        <alias field="STATE" index="2" name=""/>
-        <alias field="COUNTY" index="3" name=""/>
-        <alias field="STATE_1" index="4" name=""/>
-        <alias field="COUNTY_1" index="5" name=""/>
-        <alias field="POP2000" index="6" name=""/>
-        <alias field="WHITE" index="7" name=""/>
-        <alias field="BLACK" index="8" name=""/>
-        <alias field="AMERI_ES" index="9" name=""/>
-        <alias field="ASIAN" index="10" name=""/>
-        <alias field="HAWN_PI" index="11" name=""/>
-        <alias field="OTHER" index="12" name=""/>
-        <alias field="MULT_RACE" index="13" name=""/>
-        <alias field="HISPANIC" index="14" name=""/>
-        <alias field="MALES" index="15" name=""/>
-        <alias field="FEMALES" index="16" name=""/>
-        <alias field="AGE_UNDER5" index="17" name=""/>
-        <alias field="AGE_5_17" index="18" name=""/>
-        <alias field="AGE_18_21" index="19" name=""/>
-        <alias field="AGE_22_29" index="20" name=""/>
-        <alias field="AGE_30_39" index="21" name=""/>
-        <alias field="AGE_40_49" index="22" name=""/>
-        <alias field="AGE_50_64" index="23" name=""/>
-        <alias field="AGE_65_UP" index="24" name=""/>
-        <alias field="MED_AGE" index="25" name=""/>
-        <alias field="MED_AGE_M" index="26" name=""/>
-        <alias field="MED_AGE_F" index="27" name=""/>
-        <alias field="HOUSEHOLDS" index="28" name=""/>
-        <alias field="AVE_HH_SZ" index="29" name=""/>
-        <alias field="HSEHLD_1_M" index="30" name=""/>
-        <alias field="HSEHLD_1_F" index="31" name=""/>
-        <alias field="MARHH_CHD" index="32" name=""/>
-        <alias field="MARHH_NO_C" index="33" name=""/>
-        <alias field="MHH_CHILD" index="34" name=""/>
-        <alias field="FHH_CHILD" index="35" name=""/>
-        <alias field="FAMILIES" index="36" name=""/>
-        <alias field="AVE_FAM_SZ" index="37" name=""/>
-        <alias field="HSE_UNITS" index="38" name=""/>
-        <alias field="URBAN" index="39" name=""/>
-        <alias field="RURAL" index="40" name=""/>
-        <alias field="VACANT" index="41" name=""/>
-        <alias field="OWNER_OCC" index="42" name=""/>
-        <alias field="RENTER_OCC" index="43" name=""/>
-        <alias field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" index="44" name=""/>
-        <alias field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" index="45" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
-        <columns>
-          <column width="-1" hidden="0" type="field" name="ID"/>
-          <column width="-1" hidden="0" type="field" name="FIPSSTCO"/>
-          <column width="-1" hidden="0" type="field" name="STATE"/>
-          <column width="-1" hidden="0" type="field" name="COUNTY"/>
-          <column width="-1" hidden="0" type="field" name="STATE_1"/>
-          <column width="-1" hidden="0" type="field" name="COUNTY_1"/>
-          <column width="-1" hidden="0" type="field" name="POP2000"/>
-          <column width="-1" hidden="0" type="field" name="WHITE"/>
-          <column width="-1" hidden="0" type="field" name="BLACK"/>
-          <column width="-1" hidden="0" type="field" name="AMERI_ES"/>
-          <column width="-1" hidden="0" type="field" name="ASIAN"/>
-          <column width="-1" hidden="0" type="field" name="HAWN_PI"/>
-          <column width="-1" hidden="0" type="field" name="OTHER"/>
-          <column width="-1" hidden="0" type="field" name="MULT_RACE"/>
-          <column width="-1" hidden="0" type="field" name="HISPANIC"/>
-          <column width="-1" hidden="0" type="field" name="MALES"/>
-          <column width="-1" hidden="0" type="field" name="FEMALES"/>
-          <column width="-1" hidden="0" type="field" name="AGE_UNDER5"/>
-          <column width="-1" hidden="0" type="field" name="AGE_5_17"/>
-          <column width="-1" hidden="0" type="field" name="AGE_18_21"/>
-          <column width="-1" hidden="0" type="field" name="AGE_22_29"/>
-          <column width="-1" hidden="0" type="field" name="AGE_30_39"/>
-          <column width="-1" hidden="0" type="field" name="AGE_40_49"/>
-          <column width="-1" hidden="0" type="field" name="AGE_50_64"/>
-          <column width="-1" hidden="0" type="field" name="AGE_65_UP"/>
-          <column width="-1" hidden="0" type="field" name="MED_AGE"/>
-          <column width="-1" hidden="0" type="field" name="MED_AGE_M"/>
-          <column width="-1" hidden="0" type="field" name="MED_AGE_F"/>
-          <column width="-1" hidden="0" type="field" name="HOUSEHOLDS"/>
-          <column width="-1" hidden="0" type="field" name="AVE_HH_SZ"/>
-          <column width="-1" hidden="0" type="field" name="HSEHLD_1_M"/>
-          <column width="-1" hidden="0" type="field" name="HSEHLD_1_F"/>
-          <column width="-1" hidden="0" type="field" name="MARHH_CHD"/>
-          <column width="-1" hidden="0" type="field" name="MARHH_NO_C"/>
-          <column width="-1" hidden="0" type="field" name="MHH_CHILD"/>
-          <column width="-1" hidden="0" type="field" name="FHH_CHILD"/>
-          <column width="-1" hidden="0" type="field" name="FAMILIES"/>
-          <column width="-1" hidden="0" type="field" name="AVE_FAM_SZ"/>
-          <column width="-1" hidden="0" type="field" name="HSE_UNITS"/>
-          <column width="-1" hidden="0" type="field" name="URBAN"/>
-          <column width="-1" hidden="0" type="field" name="RURAL"/>
-          <column width="-1" hidden="0" type="field" name="VACANT"/>
-          <column width="-1" hidden="0" type="field" name="OWNER_OCC"/>
-          <column width="-1" hidden="0" type="field" name="RENTER_OCC"/>
-          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths"/>
-          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths"/>
-          <column width="-1" hidden="1" type="actions"/>
-        </columns>
-      </attributetableconfig>
-      <editform>.</editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
-"""
-QGIS forms can have a Python function that is called when the form is
-opened.
-
-Use this function to add extra logic to your forms.
-
-Enter the name of the function in the "Python Init function"
-field.
-An example follows:
-"""
-from qgis.PyQt.QtWidgets import QWidget
-
-def my_form_open(dialog, layer, feature):
-	geom = feature.geometry()
-	control = dialog.findChild(QWidget, "MyLineEdit")
-]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="ID" expression=""/>
-        <default field="FIPSSTCO" expression=""/>
-        <default field="STATE" expression=""/>
-        <default field="COUNTY" expression=""/>
-        <default field="STATE_1" expression=""/>
-        <default field="COUNTY_1" expression=""/>
-        <default field="POP2000" expression=""/>
-        <default field="WHITE" expression=""/>
-        <default field="BLACK" expression=""/>
-        <default field="AMERI_ES" expression=""/>
-        <default field="ASIAN" expression=""/>
-        <default field="HAWN_PI" expression=""/>
-        <default field="OTHER" expression=""/>
-        <default field="MULT_RACE" expression=""/>
-        <default field="HISPANIC" expression=""/>
-        <default field="MALES" expression=""/>
-        <default field="FEMALES" expression=""/>
-        <default field="AGE_UNDER5" expression=""/>
-        <default field="AGE_5_17" expression=""/>
-        <default field="AGE_18_21" expression=""/>
-        <default field="AGE_22_29" expression=""/>
-        <default field="AGE_30_39" expression=""/>
-        <default field="AGE_40_49" expression=""/>
-        <default field="AGE_50_64" expression=""/>
-        <default field="AGE_65_UP" expression=""/>
-        <default field="MED_AGE" expression=""/>
-        <default field="MED_AGE_M" expression=""/>
-        <default field="MED_AGE_F" expression=""/>
-        <default field="HOUSEHOLDS" expression=""/>
-        <default field="AVE_HH_SZ" expression=""/>
-        <default field="HSEHLD_1_M" expression=""/>
-        <default field="HSEHLD_1_F" expression=""/>
-        <default field="MARHH_CHD" expression=""/>
-        <default field="MARHH_NO_C" expression=""/>
-        <default field="MHH_CHILD" expression=""/>
-        <default field="FHH_CHILD" expression=""/>
-        <default field="FAMILIES" expression=""/>
-        <default field="AVE_FAM_SZ" expression=""/>
-        <default field="HSE_UNITS" expression=""/>
-        <default field="URBAN" expression=""/>
-        <default field="RURAL" expression=""/>
-        <default field="VACANT" expression=""/>
-        <default field="OWNER_OCC" expression=""/>
-        <default field="RENTER_OCC" expression=""/>
-        <default field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" expression=""/>
-        <default field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
-    </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <extent>
         <xmin>368368.17827665468212217</xmin>
         <ymin>4231879.24389621801674366</ymin>
         <xmax>408533.36192644335096702</xmax>
@@ -2629,6 +2150,700 @@ def my_form_open(dialog, layer, feature):
         <property key="qgis2web/popup/WHITE" value="no label"/>
         <property key="qgis2web/popup/drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" value="no label"/>
         <property key="qgis2web/popup/drugOverdoseDeaths2016_5.2_percentageOfDeaths" value="no label"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>ID</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name=".SF NS Text"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="ID" index="0" name=""/>
+        <alias field="FIPSSTCO" index="1" name=""/>
+        <alias field="STATE" index="2" name=""/>
+        <alias field="COUNTY" index="3" name=""/>
+        <alias field="STATE_1" index="4" name=""/>
+        <alias field="COUNTY_1" index="5" name=""/>
+        <alias field="POP2000" index="6" name=""/>
+        <alias field="WHITE" index="7" name=""/>
+        <alias field="BLACK" index="8" name=""/>
+        <alias field="AMERI_ES" index="9" name=""/>
+        <alias field="ASIAN" index="10" name=""/>
+        <alias field="HAWN_PI" index="11" name=""/>
+        <alias field="OTHER" index="12" name=""/>
+        <alias field="MULT_RACE" index="13" name=""/>
+        <alias field="HISPANIC" index="14" name=""/>
+        <alias field="MALES" index="15" name=""/>
+        <alias field="FEMALES" index="16" name=""/>
+        <alias field="AGE_UNDER5" index="17" name=""/>
+        <alias field="AGE_5_17" index="18" name=""/>
+        <alias field="AGE_18_21" index="19" name=""/>
+        <alias field="AGE_22_29" index="20" name=""/>
+        <alias field="AGE_30_39" index="21" name=""/>
+        <alias field="AGE_40_49" index="22" name=""/>
+        <alias field="AGE_50_64" index="23" name=""/>
+        <alias field="AGE_65_UP" index="24" name=""/>
+        <alias field="MED_AGE" index="25" name=""/>
+        <alias field="MED_AGE_M" index="26" name=""/>
+        <alias field="MED_AGE_F" index="27" name=""/>
+        <alias field="HOUSEHOLDS" index="28" name=""/>
+        <alias field="AVE_HH_SZ" index="29" name=""/>
+        <alias field="HSEHLD_1_M" index="30" name=""/>
+        <alias field="HSEHLD_1_F" index="31" name=""/>
+        <alias field="MARHH_CHD" index="32" name=""/>
+        <alias field="MARHH_NO_C" index="33" name=""/>
+        <alias field="MHH_CHILD" index="34" name=""/>
+        <alias field="FHH_CHILD" index="35" name=""/>
+        <alias field="FAMILIES" index="36" name=""/>
+        <alias field="AVE_FAM_SZ" index="37" name=""/>
+        <alias field="HSE_UNITS" index="38" name=""/>
+        <alias field="URBAN" index="39" name=""/>
+        <alias field="RURAL" index="40" name=""/>
+        <alias field="VACANT" index="41" name=""/>
+        <alias field="OWNER_OCC" index="42" name=""/>
+        <alias field="RENTER_OCC" index="43" name=""/>
+        <alias field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" index="44" name=""/>
+        <alias field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" index="45" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns>
+          <column width="-1" hidden="0" type="field" name="ID"/>
+          <column width="-1" hidden="0" type="field" name="FIPSSTCO"/>
+          <column width="-1" hidden="0" type="field" name="STATE"/>
+          <column width="-1" hidden="0" type="field" name="COUNTY"/>
+          <column width="-1" hidden="0" type="field" name="STATE_1"/>
+          <column width="-1" hidden="0" type="field" name="COUNTY_1"/>
+          <column width="-1" hidden="0" type="field" name="POP2000"/>
+          <column width="-1" hidden="0" type="field" name="WHITE"/>
+          <column width="-1" hidden="0" type="field" name="BLACK"/>
+          <column width="-1" hidden="0" type="field" name="AMERI_ES"/>
+          <column width="-1" hidden="0" type="field" name="ASIAN"/>
+          <column width="-1" hidden="0" type="field" name="HAWN_PI"/>
+          <column width="-1" hidden="0" type="field" name="OTHER"/>
+          <column width="-1" hidden="0" type="field" name="MULT_RACE"/>
+          <column width="-1" hidden="0" type="field" name="HISPANIC"/>
+          <column width="-1" hidden="0" type="field" name="MALES"/>
+          <column width="-1" hidden="0" type="field" name="FEMALES"/>
+          <column width="-1" hidden="0" type="field" name="AGE_UNDER5"/>
+          <column width="-1" hidden="0" type="field" name="AGE_5_17"/>
+          <column width="-1" hidden="0" type="field" name="AGE_18_21"/>
+          <column width="-1" hidden="0" type="field" name="AGE_22_29"/>
+          <column width="-1" hidden="0" type="field" name="AGE_30_39"/>
+          <column width="-1" hidden="0" type="field" name="AGE_40_49"/>
+          <column width="-1" hidden="0" type="field" name="AGE_50_64"/>
+          <column width="-1" hidden="0" type="field" name="AGE_65_UP"/>
+          <column width="-1" hidden="0" type="field" name="MED_AGE"/>
+          <column width="-1" hidden="0" type="field" name="MED_AGE_M"/>
+          <column width="-1" hidden="0" type="field" name="MED_AGE_F"/>
+          <column width="-1" hidden="0" type="field" name="HOUSEHOLDS"/>
+          <column width="-1" hidden="0" type="field" name="AVE_HH_SZ"/>
+          <column width="-1" hidden="0" type="field" name="HSEHLD_1_M"/>
+          <column width="-1" hidden="0" type="field" name="HSEHLD_1_F"/>
+          <column width="-1" hidden="0" type="field" name="MARHH_CHD"/>
+          <column width="-1" hidden="0" type="field" name="MARHH_NO_C"/>
+          <column width="-1" hidden="0" type="field" name="MHH_CHILD"/>
+          <column width="-1" hidden="0" type="field" name="FHH_CHILD"/>
+          <column width="-1" hidden="0" type="field" name="FAMILIES"/>
+          <column width="-1" hidden="0" type="field" name="AVE_FAM_SZ"/>
+          <column width="-1" hidden="0" type="field" name="HSE_UNITS"/>
+          <column width="-1" hidden="0" type="field" name="URBAN"/>
+          <column width="-1" hidden="0" type="field" name="RURAL"/>
+          <column width="-1" hidden="0" type="field" name="VACANT"/>
+          <column width="-1" hidden="0" type="field" name="OWNER_OCC"/>
+          <column width="-1" hidden="0" type="field" name="RENTER_OCC"/>
+          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths"/>
+          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="ID" expression=""/>
+        <default field="FIPSSTCO" expression=""/>
+        <default field="STATE" expression=""/>
+        <default field="COUNTY" expression=""/>
+        <default field="STATE_1" expression=""/>
+        <default field="COUNTY_1" expression=""/>
+        <default field="POP2000" expression=""/>
+        <default field="WHITE" expression=""/>
+        <default field="BLACK" expression=""/>
+        <default field="AMERI_ES" expression=""/>
+        <default field="ASIAN" expression=""/>
+        <default field="HAWN_PI" expression=""/>
+        <default field="OTHER" expression=""/>
+        <default field="MULT_RACE" expression=""/>
+        <default field="HISPANIC" expression=""/>
+        <default field="MALES" expression=""/>
+        <default field="FEMALES" expression=""/>
+        <default field="AGE_UNDER5" expression=""/>
+        <default field="AGE_5_17" expression=""/>
+        <default field="AGE_18_21" expression=""/>
+        <default field="AGE_22_29" expression=""/>
+        <default field="AGE_30_39" expression=""/>
+        <default field="AGE_40_49" expression=""/>
+        <default field="AGE_50_64" expression=""/>
+        <default field="AGE_65_UP" expression=""/>
+        <default field="MED_AGE" expression=""/>
+        <default field="MED_AGE_M" expression=""/>
+        <default field="MED_AGE_F" expression=""/>
+        <default field="HOUSEHOLDS" expression=""/>
+        <default field="AVE_HH_SZ" expression=""/>
+        <default field="HSEHLD_1_M" expression=""/>
+        <default field="HSEHLD_1_F" expression=""/>
+        <default field="MARHH_CHD" expression=""/>
+        <default field="MARHH_NO_C" expression=""/>
+        <default field="MHH_CHILD" expression=""/>
+        <default field="FHH_CHILD" expression=""/>
+        <default field="FAMILIES" expression=""/>
+        <default field="AVE_FAM_SZ" expression=""/>
+        <default field="HSE_UNITS" expression=""/>
+        <default field="URBAN" expression=""/>
+        <default field="RURAL" expression=""/>
+        <default field="VACANT" expression=""/>
+        <default field="OWNER_OCC" expression=""/>
+        <default field="RENTER_OCC" expression=""/>
+        <default field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" expression=""/>
+        <default field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" expression=""/>
+      </defaults>
+      <previewExpression></previewExpression>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_2016_copy20180505163752720</id>
+      <datasource>/vsizip/./shapes/countyBoundariesUSCensus2000_utm83_shp.zip</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2016 copy</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=17 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>2294</srsid>
+          <srid>26917</srid>
+          <authid>EPSG:26917</authid>
+          <description>NAD83 / UTM zone 17N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins>
+        <join joinFieldName="county" targetFieldName="COUNTY" memoryCache="1" joinLayerId="drugOverdoseDeaths2016_5_220180503005058575"/>
+      </vectorjoins>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="ID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FIPSSTCO">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="STATE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="COUNTY">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="STATE_1">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="COUNTY_1">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="POP2000">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="WHITE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="BLACK">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AMERI_ES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ASIAN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HAWN_PI">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="OTHER">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MULT_RACE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HISPANIC">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MALES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FEMALES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_UNDER5">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_5_17">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_18_21">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_22_29">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_30_39">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_40_49">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_50_64">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_65_UP">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MED_AGE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MED_AGE_M">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MED_AGE_F">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HOUSEHOLDS">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AVE_HH_SZ">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HSEHLD_1_M">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HSEHLD_1_F">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MARHH_CHD">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MARHH_NO_C">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MHH_CHILD">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FHH_CHILD">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FAMILIES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AVE_FAM_SZ">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HSE_UNITS">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="URBAN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RURAL">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="VACANT">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="OWNER_OCC">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RENTER_OCC">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths">
+          <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths">
+          <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 attr="drugOverdoseDeaths2016_5.2_percentageOfDeaths" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
+        <ranges>
+          <range render="true" symbol="0" lower="-999999.000000000000000" upper="0.000000000000000" label=" -999999.0 - 0.0 "/>
+          <range render="true" symbol="1" lower="0.000000000000000" upper="2.703000000000000" label=" 0.0 - 2.7 "/>
+          <range render="true" symbol="2" lower="2.703000000000000" upper="3.798670465000000" label=" 2.7 - 3.8 "/>
+          <range render="true" symbol="3" lower="3.798670465000000" upper="5.468750000000000" label=" 3.8 - 5.5 "/>
+          <range render="true" symbol="4" lower="5.468750000000000" upper="7.472178060000000" label=" 5.5 - 7.5 "/>
+        </ranges>
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,255,255,191"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="207,181,59,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.46"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+            <layer pass="0" class="LinePatternFill" locked="0">
+              <prop k="angle" v="45"/>
+              <prop k="color" v="0,0,0,255"/>
+              <prop k="distance" v="2"/>
+              <prop k="distance_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_unit" v="MM"/>
+              <prop k="line_width" v="0.5"/>
+              <prop k="line_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@0@1">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="square"/>
+                  <prop k="customdash" v="5;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="bevel"/>
+                  <prop k="line_color" v="72,72,72,127"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0.5"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="0"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="0"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="243,237,206,0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="207,181,59,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.46"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="231,218,157,1"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="207,181,59,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.46"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="219,200,108,0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="207,181,59,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.46"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="207,181,59,0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="207,181,59,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.46"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <source-symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="142,107,212,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,255,153"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </source-symbol>
+        <colorramp type="gradient" name="[source]">
+          <prop k="color1" v="255,255,255,127"/>
+          <prop k="color2" v="207,181,59,255"/>
+          <prop k="discrete" v="0"/>
+        </colorramp>
+        <invertedcolorramp value="0"/>
+        <mode name="jenks"/>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+        <labelformat format=" %1 - %2 " trimtrailingzeroes="false" decimalplaces="1"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value=".SF NS Text"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="13"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value=""/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
         <property key="variableNames"/>
         <property key="variableValues"/>
       </customproperties>
@@ -3879,6 +4094,699 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180505163302432</id>
+      <datasource>/vsizip/./shapes/countyBoundariesUSCensus2000_utm83_shp.zip</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>countyBoundariesUSCensus2000_utm83_shp countyBoundaries_USCensus_2000_utm83 Polygon_2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=17 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>2294</srsid>
+          <srid>26917</srid>
+          <authid>EPSG:26917</authid>
+          <description>NAD83 / UTM zone 17N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins>
+        <join joinFieldName="county" targetFieldName="COUNTY" memoryCache="1" joinLayerId="drugOverdoseDeaths2016_5_220180503005058575"/>
+      </vectorjoins>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="ID">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FIPSSTCO">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="STATE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="COUNTY">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="STATE_1">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="COUNTY_1">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="POP2000">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="WHITE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="BLACK">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AMERI_ES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ASIAN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HAWN_PI">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="OTHER">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MULT_RACE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HISPANIC">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MALES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FEMALES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_UNDER5">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_5_17">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_18_21">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_22_29">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_30_39">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_40_49">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_50_64">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AGE_65_UP">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MED_AGE">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MED_AGE_M">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MED_AGE_F">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HOUSEHOLDS">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AVE_HH_SZ">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HSEHLD_1_M">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HSEHLD_1_F">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MARHH_CHD">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MARHH_NO_C">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="MHH_CHILD">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FHH_CHILD">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="FAMILIES">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AVE_FAM_SZ">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="HSE_UNITS">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="URBAN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RURAL">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="VACANT">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="OWNER_OCC">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="RENTER_OCC">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths">
+          <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths">
+          <widgetv2config IsMultiline="0" fieldEditable="0" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 attr="drugOverdoseDeaths2016_5.2_percentageOfDeaths" forceraster="0" symbollevels="0" type="graduatedSymbol" graduatedMethod="GraduatedColor" enableorderby="0">
+        <ranges>
+          <range render="true" symbol="0" lower="-999999.000000000000000" upper="0.000000000000000" label=" -999999.0 - 0.0 "/>
+          <range render="true" symbol="1" lower="0.000000000000000" upper="2.703000000000000" label=" 0.0 - 2.7 "/>
+          <range render="true" symbol="2" lower="2.703000000000000" upper="3.798670465000000" label=" 2.7 - 3.8 "/>
+          <range render="true" symbol="3" lower="3.798670465000000" upper="5.468750000000000" label=" 3.8 - 5.5 "/>
+          <range render="true" symbol="4" lower="5.468750000000000" upper="7.472178060000000" label=" 5.5 - 7.5 "/>
+        </ranges>
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="255,255,255,127"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,255,153"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+            <layer pass="0" class="LinePatternFill" locked="0">
+              <prop k="angle" v="45"/>
+              <prop k="color" v="0,0,0,255"/>
+              <prop k="distance" v="2"/>
+              <prop k="distance_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="distance_unit" v="MM"/>
+              <prop k="line_width" v="0.5"/>
+              <prop k="line_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <symbol alpha="1" clip_to_extent="1" type="line" name="@0@1">
+                <layer pass="0" class="SimpleLine" locked="0">
+                  <prop k="capstyle" v="square"/>
+                  <prop k="customdash" v="5;2"/>
+                  <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="customdash_unit" v="MM"/>
+                  <prop k="draw_inside_polygon" v="0"/>
+                  <prop k="joinstyle" v="bevel"/>
+                  <prop k="line_color" v="72,72,72,127"/>
+                  <prop k="line_style" v="solid"/>
+                  <prop k="line_width" v="0.5"/>
+                  <prop k="line_width_unit" v="MM"/>
+                  <prop k="offset" v="0"/>
+                  <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                  <prop k="offset_unit" v="MM"/>
+                  <prop k="use_custom_dash" v="0"/>
+                  <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+                </layer>
+              </symbol>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="1">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="243,237,206,159"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,255,153"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="2">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="231,218,157,191"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,255,153"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="3">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="219,200,108,223"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,255,153"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="4">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="207,181,59,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,255,153"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <source-symbol>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="142,107,212,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,255,153"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </source-symbol>
+        <colorramp type="gradient" name="[source]">
+          <prop k="color1" v="255,255,255,127"/>
+          <prop k="color2" v="207,181,59,255"/>
+          <prop k="discrete" v="0"/>
+        </colorramp>
+        <invertedcolorramp value="0"/>
+        <mode name="jenks"/>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+        <labelformat format=" %1 - %2 " trimtrailingzeroes="false" decimalplaces="1"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value=".SF NS Text"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="13"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value=""/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>ID</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Label"/>
+        <family fieldname="" name=".SF NS Text"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="ID" index="0" name=""/>
+        <alias field="FIPSSTCO" index="1" name=""/>
+        <alias field="STATE" index="2" name=""/>
+        <alias field="COUNTY" index="3" name=""/>
+        <alias field="STATE_1" index="4" name=""/>
+        <alias field="COUNTY_1" index="5" name=""/>
+        <alias field="POP2000" index="6" name=""/>
+        <alias field="WHITE" index="7" name=""/>
+        <alias field="BLACK" index="8" name=""/>
+        <alias field="AMERI_ES" index="9" name=""/>
+        <alias field="ASIAN" index="10" name=""/>
+        <alias field="HAWN_PI" index="11" name=""/>
+        <alias field="OTHER" index="12" name=""/>
+        <alias field="MULT_RACE" index="13" name=""/>
+        <alias field="HISPANIC" index="14" name=""/>
+        <alias field="MALES" index="15" name=""/>
+        <alias field="FEMALES" index="16" name=""/>
+        <alias field="AGE_UNDER5" index="17" name=""/>
+        <alias field="AGE_5_17" index="18" name=""/>
+        <alias field="AGE_18_21" index="19" name=""/>
+        <alias field="AGE_22_29" index="20" name=""/>
+        <alias field="AGE_30_39" index="21" name=""/>
+        <alias field="AGE_40_49" index="22" name=""/>
+        <alias field="AGE_50_64" index="23" name=""/>
+        <alias field="AGE_65_UP" index="24" name=""/>
+        <alias field="MED_AGE" index="25" name=""/>
+        <alias field="MED_AGE_M" index="26" name=""/>
+        <alias field="MED_AGE_F" index="27" name=""/>
+        <alias field="HOUSEHOLDS" index="28" name=""/>
+        <alias field="AVE_HH_SZ" index="29" name=""/>
+        <alias field="HSEHLD_1_M" index="30" name=""/>
+        <alias field="HSEHLD_1_F" index="31" name=""/>
+        <alias field="MARHH_CHD" index="32" name=""/>
+        <alias field="MARHH_NO_C" index="33" name=""/>
+        <alias field="MHH_CHILD" index="34" name=""/>
+        <alias field="FHH_CHILD" index="35" name=""/>
+        <alias field="FAMILIES" index="36" name=""/>
+        <alias field="AVE_FAM_SZ" index="37" name=""/>
+        <alias field="HSE_UNITS" index="38" name=""/>
+        <alias field="URBAN" index="39" name=""/>
+        <alias field="RURAL" index="40" name=""/>
+        <alias field="VACANT" index="41" name=""/>
+        <alias field="OWNER_OCC" index="42" name=""/>
+        <alias field="RENTER_OCC" index="43" name=""/>
+        <alias field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" index="44" name=""/>
+        <alias field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" index="45" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns>
+          <column width="-1" hidden="0" type="field" name="ID"/>
+          <column width="-1" hidden="0" type="field" name="FIPSSTCO"/>
+          <column width="-1" hidden="0" type="field" name="STATE"/>
+          <column width="-1" hidden="0" type="field" name="COUNTY"/>
+          <column width="-1" hidden="0" type="field" name="STATE_1"/>
+          <column width="-1" hidden="0" type="field" name="COUNTY_1"/>
+          <column width="-1" hidden="0" type="field" name="POP2000"/>
+          <column width="-1" hidden="0" type="field" name="WHITE"/>
+          <column width="-1" hidden="0" type="field" name="BLACK"/>
+          <column width="-1" hidden="0" type="field" name="AMERI_ES"/>
+          <column width="-1" hidden="0" type="field" name="ASIAN"/>
+          <column width="-1" hidden="0" type="field" name="HAWN_PI"/>
+          <column width="-1" hidden="0" type="field" name="OTHER"/>
+          <column width="-1" hidden="0" type="field" name="MULT_RACE"/>
+          <column width="-1" hidden="0" type="field" name="HISPANIC"/>
+          <column width="-1" hidden="0" type="field" name="MALES"/>
+          <column width="-1" hidden="0" type="field" name="FEMALES"/>
+          <column width="-1" hidden="0" type="field" name="AGE_UNDER5"/>
+          <column width="-1" hidden="0" type="field" name="AGE_5_17"/>
+          <column width="-1" hidden="0" type="field" name="AGE_18_21"/>
+          <column width="-1" hidden="0" type="field" name="AGE_22_29"/>
+          <column width="-1" hidden="0" type="field" name="AGE_30_39"/>
+          <column width="-1" hidden="0" type="field" name="AGE_40_49"/>
+          <column width="-1" hidden="0" type="field" name="AGE_50_64"/>
+          <column width="-1" hidden="0" type="field" name="AGE_65_UP"/>
+          <column width="-1" hidden="0" type="field" name="MED_AGE"/>
+          <column width="-1" hidden="0" type="field" name="MED_AGE_M"/>
+          <column width="-1" hidden="0" type="field" name="MED_AGE_F"/>
+          <column width="-1" hidden="0" type="field" name="HOUSEHOLDS"/>
+          <column width="-1" hidden="0" type="field" name="AVE_HH_SZ"/>
+          <column width="-1" hidden="0" type="field" name="HSEHLD_1_M"/>
+          <column width="-1" hidden="0" type="field" name="HSEHLD_1_F"/>
+          <column width="-1" hidden="0" type="field" name="MARHH_CHD"/>
+          <column width="-1" hidden="0" type="field" name="MARHH_NO_C"/>
+          <column width="-1" hidden="0" type="field" name="MHH_CHILD"/>
+          <column width="-1" hidden="0" type="field" name="FHH_CHILD"/>
+          <column width="-1" hidden="0" type="field" name="FAMILIES"/>
+          <column width="-1" hidden="0" type="field" name="AVE_FAM_SZ"/>
+          <column width="-1" hidden="0" type="field" name="HSE_UNITS"/>
+          <column width="-1" hidden="0" type="field" name="URBAN"/>
+          <column width="-1" hidden="0" type="field" name="RURAL"/>
+          <column width="-1" hidden="0" type="field" name="VACANT"/>
+          <column width="-1" hidden="0" type="field" name="OWNER_OCC"/>
+          <column width="-1" hidden="0" type="field" name="RENTER_OCC"/>
+          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths"/>
+          <column width="-1" hidden="0" type="field" name="drugOverdoseDeaths2016_5.2_percentageOfDeaths"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="ID" expression=""/>
+        <default field="FIPSSTCO" expression=""/>
+        <default field="STATE" expression=""/>
+        <default field="COUNTY" expression=""/>
+        <default field="STATE_1" expression=""/>
+        <default field="COUNTY_1" expression=""/>
+        <default field="POP2000" expression=""/>
+        <default field="WHITE" expression=""/>
+        <default field="BLACK" expression=""/>
+        <default field="AMERI_ES" expression=""/>
+        <default field="ASIAN" expression=""/>
+        <default field="HAWN_PI" expression=""/>
+        <default field="OTHER" expression=""/>
+        <default field="MULT_RACE" expression=""/>
+        <default field="HISPANIC" expression=""/>
+        <default field="MALES" expression=""/>
+        <default field="FEMALES" expression=""/>
+        <default field="AGE_UNDER5" expression=""/>
+        <default field="AGE_5_17" expression=""/>
+        <default field="AGE_18_21" expression=""/>
+        <default field="AGE_22_29" expression=""/>
+        <default field="AGE_30_39" expression=""/>
+        <default field="AGE_40_49" expression=""/>
+        <default field="AGE_50_64" expression=""/>
+        <default field="AGE_65_UP" expression=""/>
+        <default field="MED_AGE" expression=""/>
+        <default field="MED_AGE_M" expression=""/>
+        <default field="MED_AGE_F" expression=""/>
+        <default field="HOUSEHOLDS" expression=""/>
+        <default field="AVE_HH_SZ" expression=""/>
+        <default field="HSEHLD_1_M" expression=""/>
+        <default field="HSEHLD_1_F" expression=""/>
+        <default field="MARHH_CHD" expression=""/>
+        <default field="MARHH_NO_C" expression=""/>
+        <default field="MHH_CHILD" expression=""/>
+        <default field="FHH_CHILD" expression=""/>
+        <default field="FAMILIES" expression=""/>
+        <default field="AVE_FAM_SZ" expression=""/>
+        <default field="HSE_UNITS" expression=""/>
+        <default field="URBAN" expression=""/>
+        <default field="RURAL" expression=""/>
+        <default field="VACANT" expression=""/>
+        <default field="OWNER_OCC" expression=""/>
+        <default field="RENTER_OCC" expression=""/>
+        <default field="drugOverdoseDeaths2016_5.2_drugOverdoseDeaths" expression=""/>
+        <default field="drugOverdoseDeaths2016_5.2_percentageOfDeaths" expression=""/>
+      </defaults>
+      <previewExpression></previewExpression>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy_copy20180502163116812</id>
       <datasource>/vsizip/./shapes/countyBoundariesUSCensus2000_utm83_shp.zip</datasource>
       <keywordList>
@@ -4904,7 +5812,7 @@ def my_form_open(dialog, layer, feature):
         <map-layer-style name=""/>
       </map-layer-style-manager>
       <pipe>
-        <rasterrenderer gradient="BlackToWhite" opacity="0.498039" alphaBand="0" type="singlebandgray" grayBand="1">
+        <rasterrenderer gradient="BlackToWhite" opacity="0.180392" alphaBand="-1" type="singlebandgray" grayBand="1">
           <rasterTransparency/>
           <contrastEnhancement>
             <minValue>1.05125e-06</minValue>
@@ -6670,13 +7578,13 @@ def my_form_open(dialog, layer, feature):
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_color" v="207,181,59,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
+              <prop k="size" v="1.6"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
@@ -7342,7 +8250,6 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
       <LayerSnappingList type="QStringList">
         <value>countyBoundariesUSCensus2000_utm83_shp20180426203213170</value>
-        <value>countyBoundariesUSCensus2000_utm83_shp20180502163100588</value>
         <value>countyBoundariesUSCensus2000_utm83_shp_Cabell20180503114658033</value>
         <value>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180502163113899</value>
         <value>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180503005025659</value>
@@ -7354,6 +8261,7 @@ def my_form_open(dialog, layer, feature):
         <value>libraryAddressesCoordinates2_selected_Cabell20180503115439159</value>
         <value>schoolCoordinatesComplete420180503011217878</value>
         <value>schoolCoordinatesComplete4_Cabell20180503115115123</value>
+        <value>countyBoundariesUSCensus2000_utm83_shp_countyBoundaries_USCensus_2000_utm83_Polygon_copy20180505163302432</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
         <value>disabled</value>
@@ -7431,8 +8339,8 @@ def my_form_open(dialog, layer, feature):
       <Usedebuglibraries type="bool">false</Usedebuglibraries>
       <Baselayer type="QStringList"/>
       <Addlayerslist type="QString">None</Addlayerslist>
-      <MatchprojectCRS type="bool">false</MatchprojectCRS>
       <Highlightonhover type="bool">false</Highlightonhover>
+      <MatchprojectCRS type="bool">false</MatchprojectCRS>
       <Addaddresssearch type="bool">false</Addaddresssearch>
       <Minzoomlevel type="QString">1</Minzoomlevel>
       <Geolocateuser type="bool">false</Geolocateuser>
